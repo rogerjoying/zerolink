@@ -3,32 +3,34 @@
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
-from smtplib import SMTPSenderRefused
 
-class ReMailer():
+class Mailer():
     
-    def send(self):
-        sender = '@163.com'
-        receiver = '@gmail.com'
-        subject = '这是一个测试邮件'
-        smtpserver = 'smtp.163.com'
-        username = ''
-        password = '' 
+    def __init__(self, sender, password, server):
+        self.sender = sender
+        self.password = password
+        self.smtpserver = server
+          
+    def setMsg(self, receiver, subject, msg):        
+        message = MIMEText(msg, 'plain', 'utf-8')
+        message['Subject'] = Header(subject, 'utf-8') 
+        message['From'] = self.sender
         
-        msg = MIMEText('你好','plain','utf-8')
-        msg['Subject'] = Header(subject, 'utf-8') 
-        msg['From'] = sender
-        msg['To'] = receiver
-        
+        if isinstance(receiver, list):
+            message['To'] = ",".join(receiver)
+        else:
+            message['To'] = receiver
+            
+        return message        
+    
+    def send(self, msg):
         smtp = smtplib.SMTP()
-        smtp.connect(smtpserver)
+        smtp.connect(self.smtpserver)
         smtp.ehlo()
         smtp.starttls()
         smtp.ehlo()
         smtp.set_debuglevel(1)
-        smtp.login(username, password)
-        smtp.sendmail(sender, receiver, msg.as_string())
+        smtp.login(self.sender, self.password)
+        smtp.sendmail(self.sender, msg['To'], msg = msg.as_string())
         smtp.quit()
         
-test = ReMailer()
-test.send()
