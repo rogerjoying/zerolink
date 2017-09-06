@@ -10,7 +10,7 @@ smtpServer = "smtp.163.com"
 
 mailer = Mailer(sender, passwd, smtpServer)
 
-receiver = 'rogerjoying@gmail.com'
+receiver = '@gmail.com'
 subject = "这是一个测试邮件"
 msg = "测试邮件内容"
 
