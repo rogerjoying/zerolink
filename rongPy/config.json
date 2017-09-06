@@ -1,12 +1,7 @@
 {
-	"stock":[
-		{"dir" : "D:\\Temp\\stocks\\"}
-	],
-	
-	"mail":[
-		"163":[
-			{"account" : ""},
-			{"password" : ""}
-		]
+	"stock": [
+		{
+			"dir": "D:\\Temp\\stocks\\"
+		}
 	]
 }
