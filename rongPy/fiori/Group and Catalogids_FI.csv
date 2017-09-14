@@ -1,0 +1,597 @@
+﻿AppName,ApplicationType,BusinessCatalogName,BusinessGroupName,BusinessGroupDescription,BusinessRoleName,BusinessRoleDescription,BSPName
+Display Migrated Transactions for Deletion - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Delete Migrated Asset Transaction - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Add Asset Transaction as Migration - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Delete Last Years Migrated Asset Data - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Migrate Last Years Asset Data - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Migrate Last Years Asset Data - XML - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Profit Center Assignment Monitor,GUI,"SAP_SFIN_BC_CO_MD_PCA,  SAP_SFIN_BC_GL_MASTER_DATA","SAP_SFIN_BCG_GL_MASTDATA,SAP_SFIN_BCG_CO_MD","Master Data,Controlling - Master Data","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",
+Reverse Line Items,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Unplanned Depreciation,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Post Asset Sale - Without Customer,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Post Asset Retirement - By Scrapping,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Revaluation,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Credit Memo previous Year,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Credit Memo in Year,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Post Post-Capitalization,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Transfer intercompany,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Post Transfer - Within Company Code,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Post Acquisition - With Automatic Offsetting Entry,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Acquisition from Affiliated Company,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Write-ups,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Verify Data Flow,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Define Distribution Rules - For Asset under Construction,GUI,SAP_SFIN_BC_AA_CONSTR,SAP_SFIN_BCG_AA_CONSTR,Asset Under Construction,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Settle Asset under Construction,GUI,SAP_SFIN_BC_AA_CONSTR,SAP_SFIN_BCG_AA_CONSTR,Asset Under Construction,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Reverse Settlement of AuC,GUI,SAP_SFIN_BC_AA_CONSTR,SAP_SFIN_BCG_AA_CONSTR,Asset Under Construction,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Display Asset Classes per Chart of Depreciation,GUI,SAP_SFIN_BC_AA_CONFIG,SAP_SFIN_BCG_AA_CONFIG,Configuration,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Upload Inbound Files - China,FPM/WebDynpro,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Create Cancellation Outbound Files - China,FPM/WebDynpro,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Create Outbound Files - China,FPM/WebDynpro,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Customize Outbound Application - China,FPM/WebDynpro,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Search By Source Document - China,FPM/WebDynpro,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Search By VAT Invoice - China,FPM/WebDynpro,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Asset Transaction List,GUI,SAP_SFIN_BC_AA_GEN_REP,SAP_SFIN_BCG_AA_GEN_REP,General Reporting,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Depreciation Reporting,GUI,SAP_SFIN_BC_AA_GEN_REP,SAP_SFIN_BCG_AA_GEN_REP,General Reporting,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Create Asset Master Record,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Change Asset,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Display Asset,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Block Assets,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Delete Asset,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Create Subnumber,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Values,GUI,SAP_SFIN_BC_AA_GEN_REP,SAP_SFIN_BCG_AA_GEN_REP,General Reporting,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Monitor Batches and Payments,GUI,SAP_SFIN_BC_BANK_OPERATION,SAP_SFIN_BCG_BANK_OPERATION,Bank Communication - Operational Processing,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+"Transfer Time Recording to CO, Process Unposted Time Confirmations",GUI,SAP_SFIN_BC_CO_CONFIG,SAP_SFIN_BCG_CO_CONFIG,Controlling - Configuration,SAP_BR_CONTROLLER,Controller,
+Edit Original Budget - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Display Original Budget - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Edit Budget Release - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Display Project Budget Release,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Transfer Project Budget - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Post Budget Return from Project - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Post Budget Supplement to Project - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Edit Budget Supplement - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Edit Budget Return - Projects,GUI,SAP_SFIN_BC_CO_BUDGET_PS,SAP_SFIN_BCG_CO_BUDGET,Controlling - Budgeting,SAP_BR_CONTROLLER,Controller,
+Run Actual Settlement - Projects,GUI,SAP_SFIN_BC_CO_PE_PS_SETT,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Run Actual Settlement - Projects - Collective (Optimized),GUI,"SAP_SFIN_BC_CO_PE_INV_SETT,SAP_SFIN_BC_CO_PE_PS_SETT",SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+"Generate Settlement Rules - Projects, Generate Project Settlement Rules Collectively",GUI,SAP_SFIN_BC_CO_PE_PS_SETT,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Create Material Cost Estimates,GUI,"SAP_SFIN_BC_IA_MCE,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Cost Estimations,Controlling - Valuation","SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Display Material Cost Estimates,GUI,"SAP_SFIN_BC_IA_MCE,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Cost Estimations,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Release Material Cost Estimates,GUI,"SAP_SFIN_BC_CO_VAL_INV_REL,SAP_SFIN_BC_IA_MCE","SAP_SFIN_BCG_IA_MCE,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Cost Estimations,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Controller, Inventory Accountant",
+Edit Costing Runs,GUI,"SAP_SFIN_BC_IA_MCE_PER_ACT,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_MCE_PER_ACT","Controlling - Valuation,Material Cost Estimates - Periodic Activities","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Delete Costing Runs,GUI,"SAP_SFIN_BC_IA_MCE_PER_ACT,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE_PER_ACT,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Periodic Activities,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Controller, Inventory Accountant",
+Cost Sales Orders - Single,GUI,"SAP_SFIN_BC_CO_VAL_INV,SAP_SFIN_BC_IA_SCE",SAP_SFIN_BCG_IA_SCE,Sales Order Cost Estimates - Cost Estimations,"SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Display Sales Order Cost Estimates,GUI,SAP_SFIN_BC_IA_SCE,SAP_SFIN_BCG_IA_SCE,Sales Order Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Cost Sales Orders - Multi,GUI,SAP_SFIN_BC_IA_SCE,SAP_SFIN_BCG_IA_SCE,Sales Order Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Create Additive Costs,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Change Additive Costs,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Display Additive Costs,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Comparison of Itemizations,GUI,SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BCG_IA_MCE_REP,Material Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Cost Components - Materials,GUI,"SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_MCE_REP","Controlling - Valuation,Material Cost Estimates - Reporting","SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Material Cost Estimates,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Itemization - Materials,GUI,"SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE_REP,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Reporting,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Itemization - Sales Orders,GUI,"SAP_SFIN_BC_IA_SCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_SCE_REP","Controlling - Valuation,Sales Order Cost Estimates - Reporting","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Costed Multilevel BOM - Materials,GUI,"SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_MCE_REP","Controlling - Valuation,Material Cost Estimates - Reporting","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Costed Multilevel BOM - Sales Orders,GUI,"SAP_SFIN_BC_IA_SCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_SCE_REP","Controlling - Valuation,Sales Order Cost Estimates - Reporting","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Controller, Inventory Accountant",
+Partner Cost Components,GUI,SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BCG_IA_MCE_REP,Material Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Cost Components - Sales Orders,GUI,SAP_SFIN_BC_IA_SCE_REP,SAP_SFIN_BCG_IA_SCE_REP,Sales Order Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Edit Procurement Alternatives,GUI,SAP_SFIN_BC_IA_MCE_MIX_CST,SAP_SFIN_BCG_IA_MCE_MIX_CST,Material Cost Estimates - Mixed Costing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Change Mixing Ratios,GUI,SAP_SFIN_BC_IA_MCE_MIX_CST,SAP_SFIN_BCG_IA_MCE_MIX_CST,Material Cost Estimates - Mixed Costing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Display Mixing Ratios,GUI,SAP_SFIN_BC_IA_MCE_MIX_CST,SAP_SFIN_BCG_IA_MCE_MIX_CST,Material Cost Estimates - Mixed Costing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Display Uncosted Materials,GUI,"SAP_SFIN_BC_CO_VAL_INV,SAP_SFIN_BC_IA_MCE","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_MCE","Controlling - Valuation,Material Cost Estimates - Cost Estimations","SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Display Uncosted Sales Order Items,GUI,SAP_SFIN_BC_IA_SCE,SAP_SFIN_BCG_IA_SCE,Sales Order Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Check Costing Variants,GUI,SAP_SFIN_BC_IA_MCE_SET,SAP_SFIN_BCG_IA_MCE_SET,Material Cost Estimates - Settings,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Material Price Analysis,GUI,"SAP_SFIN_BC_CO_REP_INV_MAT,SAP_SFIN_BC_IA_AC_REP","SAP_SFIN_BCG_IA_AC_REP,SAP_SFIN_BCG_CO_REPORTS","Actual Costing - Reporting,Controlling - Reporting","SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Activity Types Value Flow,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Edit Selection Lists,GUI,"SAP_SFIN_BC_IA_MCE_PER_ACT,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE_PER_ACT,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Periodic Activities,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Create Selection Lists,GUI,"SAP_SFIN_BC_IA_MCE_PER_ACT,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE_PER_ACT,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Periodic Activities,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Display Material Ledger Documents,GUI,SAP_SFIN_BC_IA_AC,SAP_SFIN_BCG_IA_AC,Actual Costing - Cost Calculations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Change Actual Cost Components,GUI,SAP_SFIN_BC_IA_AC,SAP_SFIN_BCG_IA_AC,Actual Costing - Cost Calculations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Display Actual Cost Components,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Material Transaction History,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Distribute Activity Differences,GUI,SAP_SFIN_BC_IA_AC_DIST,SAP_SFIN_BCG_IA_AC_DIST,Actual Costing - Distribution of Actual Differences,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Distribute Inventory Differences,GUI,SAP_SFIN_BC_IA_AC_DIST,SAP_SFIN_BCG_IA_AC_DIST,Actual Costing - Distribution of Actual Differences,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Enter Activity Differences,GUI,SAP_SFIN_BC_IA_AC_DIST,SAP_SFIN_BCG_IA_AC_DIST,Actual Costing - Distribution of Actual Differences,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Inventory and Activity Differences,GUI,SAP_SFIN_BC_IA_AC_DIST_REP,SAP_SFIN_BCG_IA_AC_DIST_REP,Actual Costing - Distribution of Actual Differences - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Release Planned Price Changes,GUI,SAP_SFIN_BC_IA_MAT_PV,SAP_SFIN_BCG_IA_MAT_PV,Material Prices and Values - Editing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Period Value Comparison,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Edit Actual Costing Runs,GUI,SAP_SFIN_BC_IA_AC_PER_ACT,SAP_SFIN_BCG_IA_AC_PER_ACT,Actual Costing - Periodic Activities,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Edit Alternative Valuation Runs,GUI,SAP_SFIN_BC_IA_AC_PER_ACT,SAP_SFIN_BCG_IA_AC_PER_ACT,Actual Costing - Periodic Activities,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Actual Cost Estimates,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Delete Alternative Valuation Runs,GUI,SAP_SFIN_BC_IA_AC_PER_ACT,SAP_SFIN_BCG_IA_AC_PER_ACT,Actual Costing - Periodic Activities,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Delete Actual Costing Runs,GUI,SAP_SFIN_BC_IA_AC_PER_ACT,SAP_SFIN_BCG_IA_AC_PER_ACT,Actual Costing - Periodic Activities,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Reorganize Actual Costing Runs,GUI,SAP_SFIN_BC_IA_AC_PER_ACT,SAP_SFIN_BCG_IA_AC_PER_ACT,Actual Costing - Periodic Activities,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Period Status,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Change Price Determination,GUI,SAP_SFIN_BC_IA_AC_PROD_SU,SAP_SFIN_BCG_IA_AC_PROD_SU,Actual Costing - Production Startup,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Material Price Change Documents,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Enter Future Prices,GUI,SAP_SFIN_BC_IA_MAT_PV,SAP_SFIN_BCG_IA_MAT_PV,Material Prices and Values - Editing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Value Flow for Reduced WIP,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Material Ledger Documents,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Material Ledger Startup,GUI,SAP_SFIN_BC_IA_AC_PROD_SU,SAP_SFIN_BCG_IA_AC_PROD_SU,Actual Costing - Production Startup,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Largest PUP Difference,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Highest Inventory Value,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Transfer Production Plan,GUI,SAP_SFIN_BC_IA_MCE_MIX_CST,SAP_SFIN_BCG_IA_MCE_MIX_CST,Material Cost Estimates - Mixed Costing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Material Value Flow,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Reorganize Cost Estimates,GUI,SAP_SFIN_BC_IA_MCE_PER_ACT,SAP_SFIN_BCG_IA_MCE_PER_ACT,Material Cost Estimates - Periodic Activities,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Create Unit Cost Estimate - Multi,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Run Overhead Calculation - Production Orders - Actual,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN,SAP_SFIN_BCG_CO_PER_END","Controlling - Production Cost Period End,Controlling - Period End Processing","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Settle Orders - Optimized,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN,SAP_SFIN_BCG_CO_PER_END","Controlling - Production Cost Period End,Controlling - Period End Processing","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Presettle Co-Products or Rework - Collective,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN_BCG_CO_PER_END,SAP_SFIN","Controlling - Period End Processing,Controlling - Production Cost Period End","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Set Status to Closed - Orders - Collective,GUI,SAP_SFIN_BC_CO_PE_OPA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+WIP at Actual Costs,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Cash concentration for core BAM,GUI,SAP_SFIN_BC_CM_BAM,,,"SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Cash Management Specialist, Cash Manager",
+Pool creation for core BAM,GUI,SAP_SFIN_BC_CM_BAM,,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Pool edit for core BAM,GUI,SAP_SFIN_BC_CM_BAM,,,"SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Cash Management Specialist, Cash Manager",
+Pool edit for core BAM,GUI,SAP_SFIN_BC_CM_BAM,,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Post with Clearing,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Post Customer Outgoing Payments - With Print,GUI,SAP_SFIN_BC_AR_OUT_PAYM,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Reverse Bills of Exchange,GUI,SAP_SFIN_BC_AR_REVERSAL,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Post Customer Down Payments,GUI,SAP_SFIN_BC_AR_INC_PAYM,SAP_SFIN_BCG_APAR_PAYMENTS,Payments,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Post Customer Down Payment Requests,GUI,SAP_SFIN_BC_AR_INVOICES,SAP_SFIN_BCG_APAR_PAYMENTS,Payments,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Reverse Check/BOE - For Supplier,GUI,SAP_SFIN_BC_AP_REVERSAL,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Create Supplier Down Payment Requests,GUI,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_APAR_PAYMENTS,Payments,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Post Supplier Down Payments,GUI,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_APAR_PAYMENTS,Payments,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Post Supplier Outgoing Payments - With Print,GUI,SAP_SFIN_BC_AP_OPERATIONS,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Acquisition without order (integrated AP),GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Sale with Invoice,GUI,SAP_SFIN_BC_AA_DOC_PROC,SAP_SFIN_BCG_AA_DOC_PROC,Operational Processing,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Clear Open Items Automatically,GUI,"SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BC_CM_CASH_OPS",SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,"SAP_BR_CASH_SPECIALIST, SAP_BR_GL_ACCOUNTANT, SAP_BR_CASH_MANAGER","Cash Management Specialist, General Ledger Accountant, Cash Manager",
+Create Balance Confirmations - For Customers,GUI,SAP_SFIN_BC_AR_OPERATIONS,SAP_SFIN_BCG_APAR_CORR,Correspondence,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Create Balance Confirmations - For Suppliers,GUI,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_APAR_CORR,Correspondence,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Repost GR/IR clearing,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Balance Confirmations - Group Master Records,GUI,SAP_SFIN_BC_APAR_OPER,,,"SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT","Accounts Receivable Accountant, Accounts Payable Accountant",
+Balance Confirmations - Create Index,GUI,SAP_SFIN_BC_APAR_OPER,,,"SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT","Accounts Receivable Accountant, Accounts Payable Accountant",
+Create Balance Interest Calculation - For Customers,GUI,SAP_SFIN_BC_AR_OPERATIONS,SAP_SFIN_BCG_AR_CUST_ACC,Customer Accounts,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Create Periodic Account Statements,GUI,SAP_SFIN_BC_APAR_OPER,SAP_SFIN_BCG_APAR_CORR,Correspondence,"SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT","Accounts Receivable Accountant, Accounts Payable Accountant",
+Create Balance Interest Calculation - For Suppliers,GUI,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_AP_CUST_ACC,Supplier Accounts,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Run balance interest calculation,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Delete Recurring Entry,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+"Trigger Correspondence, Print Correspondence Requests",GUI,"SAP_SFIN_BC_GL_CORR,SAP_SFIN_BC_APAR_OPER","SAP_SFIN_BCG_APAR_CORR,SAP_SFIN_BCG_GL_CORR","Correspondence,Correspondence","SAP_BR_GL_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT","General Ledger Accountant, Accounts Receivable Accountant, Accounts Payable Accountant",
+"Display internal Journal Entries (for printing), Create Correspondence Requests - For Internal Documents",GUI,"SAP_SFIN_BC_GL_CORR,SAP_SFIN_BC_APAR_OPER","SAP_SFIN_BCG_GL_CORR,SAP_SFIN_BCG_APAR_CORR","Correspondence,Correspondence","SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant, General Ledger Accountant",
+Delete Correspondence Requests,GUI,"SAP_SFIN_BC_GL_CORR,SAP_SFIN_BC_APAR_OPER","SAP_SFIN_BCG_APAR_CORR,SAP_SFIN_BCG_GL_CORR","Correspondence,Correspondence","SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant, General Ledger Accountant",
+"Manage Correspondence Requests, Maintain Correspondence Request",GUI,"SAP_SFIN_BC_GL_CORR,SAP_SFIN_BC_APAR_OPER",SAP_SFIN_BCG_GL_CORR,Correspondence,"SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant, General Ledger Accountant",
+Create Standard Letters - For Customers,GUI,SAP_SFIN_BC_AR_OPERATIONS,SAP_SFIN_BCG_APAR_CORR,Correspondence,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Create Standard Letters - For Suppliers,GUI,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_APAR_CORR,Correspondence,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Reverse Accrual/Deferral Journal Entry,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Process Receivables,Transactional,SAP_SFIN_BC_AR_OPERATIONS,"SAP_SFIN_BCG_AR_DAILY, SAP_SFIN_BCG_AR_CUST_ACC","Daily Business, Customer Accounts",SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_PROCRECEIVE
+My Spend (Version 2),Transactional,SAP_SFIN_BC_CO_COST_MGR,SAP_SFIN_BCG_CO_COST_MGR,Controlling - Cost Management,SAP_BR_CONTROLLER,Controller,FIN_MYSPEND
+My Unusual Items,Transactional,SAP_SFIN_BC_CO_COST_MGR,SAP_SFIN_BCG_CO_COST_MGR,Controlling - Cost Management,SAP_BR_CONTROLLER,Controller,FIN_MYUNUSITEMS
+Process Collections Worklist,Transactional,SAP_SFIN_BC_AR_OPERATIONS,"SAP_SFIN_BCG_APAR_CORR, SAP_SFIN_BCG_AR_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Correspondence, Customer Accounts, Daily Business",SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FSCM_COLLWORKL
+My Inbox - Approve Purchase Contracts,Transactional,SAP_FND_BC_MANAGER_T,,,SAP_FND_BCR_MANAGER_T,Manager Approval (Cross) ÃƒÂ¢Ã‚Â€Ã‚Â“ Apps,CA_FIORI_INBOX
+My Inbox - Approve Purchase Requisitions,Transactional,SAP_FND_BC_MANAGER_T,,,SAP_FND_BCR_MANAGER_T,Manager Approval (Cross) ÃƒÂ¢Ã‚Â€Ã‚Â“ Apps,CA_FIORI_INBOX
+My Travel Requests,Transactional,SAP_FI_BC_TRV,SAP_FI_BCG_TRV,Travel - Employee,SAP_BR_EMPLOYEE_TRV,Employee - Travel Info,FIN_TR_CRE
+My Inbox - Approve Travel Expenses,Transactional,SAP_FND_BC_MANAGER_T,,,SAP_BR_MANAGER,Manager - Inbox,CA_FIORI_INBOX
+My Inbox - Approve Travel Requests,Transactional,SAP_FND_BC_MANAGER_T,,,SAP_BR_MANAGER,Manager - Inbox,CA_FIORI_INBOX
+Liquidity Forecast,Analytical,SAP_SFIN_BC_CM_LM,SAP_SFIN_BCG_CM_LM,Liquidity Management,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",SBRT_APPSS1
+Actual Cash Flow,Analytical,SAP_SFIN_BC_CM_LM,SAP_SFIN_BCG_CM_LM,Liquidity Management,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",SBRT_APPSS1
+Bank Risk (S/4HANA),Analytical,SAP_SFIN_BC_CM_CASH_OPS,"SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_DAILY_SPECIALIST","Daily Business, Daily Business","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",SBRT_APPSS1
+Deficit Cash Pool (S/4HANA),Analytical,SAP_SFIN_BC_CM_CASH_OPS,"SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_DAILY_SPECIALIST","Daily Business, Daily Business","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",SBRT_APPSS1
+My Inbox - Approve Supplier Invoice,Transactional,SAP_FND_BC_MANAGER_T,,,SAP_FND_BCR_MANAGER_T,Manager Approval (Cross) ÃƒÂ¢Ã‚Â€Ã‚Â“ Apps,CA_FIORI_INBOX
+My Travel and Expenses,Transactional,SAP_FI_BC_TRV,SAP_FI_BCG_TRV,Travel - Employee,SAP_BR_EMPLOYEE_TRV,Employee - Travel Info,TRV_TE_CRE
+Manage Payment Blocks,Transactional,SAP_SFIN_BC_AP_DOCUMENT,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_BLOCKPAYM
+My Projects,Transactional,SAP_SFIN_BC_CO_COST_MGR,SAP_SFIN_BCG_CO_COST_MGR,Controlling - Cost Management,SAP_BR_CONTROLLER,Controller,FIN_MYPROJECTS
+Manage Budget,Transactional,SAP_SFIN_BC_CO_COST_MGR,SAP_SFIN_BCG_CO_COST_MGR,Controlling - Cost Management,SAP_BR_CONTROLLER,Controller,FIN_MANAGEBGT
+Approve Bank Payments,Transactional,"SAP_SFIN_BC_BANK_APPROVE, SAP_SFIN_BC_CM_MANAGER","SAP_SFIN_BCG_AP_PAYM_APV, SAP_SFIN_BCG_BANK_APPROVE, SAP_SFIN_BCG_CM_BAM, SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_LM","Payments Approval, Bank Communication - Approval, Bank Account Management, Daily Business, Liquidity Management","SAP_BR_AP_MANAGER, SAP_BR_CASH_MANAGER","Accounts Payable Manager, Cash Manager",FIN_BANKPMTAPV
+Make Bank Transfers,Transactional,SAP_SFIN_BC_CM_CASH_OPS,"SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_DAILY_SPECIALIST","Daily Business, Daily Business","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_CASHTRAN
+Track Bank Transfers,Transactional,SAP_SFIN_BC_CM_CASH_OPS,"SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_DAILY_SPECIALIST","Daily Business, Daily Business","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_TRANSTRACK
+Correction Request,Transactional,SAP_SFIN_BC_CO_COST_MGR,SAP_SFIN_BCG_CO_COST_MGR,Controlling - Cost Management,SAP_BR_CONTROLLER,Controller,FIN_CORR_REQ
+Display Supplier Balances,Transactional,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_AP_SUPP_ACC,Supplier Accounts,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_VENDOR_BAL
+Manage Dispute Cases,Transactional,SAP_SFIN_BC_AR_DISPUTE_RES,SAP_SFIN_BCG_AR_DISPUTES,Disputes,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FSCM_DISPUTES
+Display Customer Balances,Transactional,SAP_SFIN_BC_AR_OPERATIONS,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_CUST_BAL
+Display G/L Account Line Items,Transactional,SAP_SFIN_BC_GL_GEN_REP,SAP_SFIN_BCG_GL_GEN_REP,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GL_LITB
+Display G/L Account Balances,Transactional,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,G/L Accountant,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GL_BALANCES
+Display Financial Statement,Transactional,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_FINSTATEMNT
+Manage Customer Line Items,Transactional,"SAP_SFIN_BC_AR_OPERATIONS, SAP_SFIN_BC_AR_DOCUMENT","SAP_SFIN_BCG_AR_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Customer Accounts, Daily Business",SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_CUST_LITS
+Manage Supplier Line Items,Transactional,SAP_SFIN_BC_AP_OPERATIONS,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_VEN_LITS
+Manage Journal Entries,Transactional,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GLDOCDISP
+Post General Journal Entries,Transactional,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GLDOCPOST
+Manage G/L Account Master Data (Version 2),Transactional,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_MNG_GLACCT
+Manage Profit Center Master Data,FPM/WebDynpro,"SAP_SFIN_BC_CO_MD_PCA, SAP_SFIN_BC_GL_MASTER_DATA","SAP_SFIN_BCG_CO_MD, SAP_SFIN_BCG_GL_MASTDATA","Controlling - Master Data, Master Data","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",
+Check Cash Flow Items,Transactional,"SAP_SFIN_BC_CM_CASH_OPS, SAP_SFIN_BC_CM_CASH_OPS","SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_DAILY_SPECIALIST","Daily Business, Daily Business","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_PAYDETAIL
+My Bank Account Worklist,FPM/WebDynpro,SAP_SFIN_BC_CM_MANAGER,SAP_SFIN_BCG_CM_BAM,,SAP_BR_CASH_MANAGER,Cash Manager,
+Cash Position Details,Transactional,SAP_SFIN_BC_CM_CASH_OPS,"SAP_SFIN_BCG_CM_DAILY, SAP_SFIN_BCG_CM_DAILY_SPECIALIST","Daily Business, Daily Business","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_ANALYZEPOSI
+Develop Liquidity Plans,"Transactional, Design Studio","SAP_SFIN_BC_CM_LM, SAP_SFIN_BC_CM_LM",,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_DS_ANALYZE
+Cash Flow - Detailed Analysis,FPM/WebDynpro,"SAP_SFIN_BC_CM_LM, SAP_SFIN_BC_CM_LM",SAP_SFIN_BCG_CM_LM,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Liquidity Forecast Details,FPM/WebDynpro,"SAP_SFIN_BC_CM_LM, SAP_SFIN_BC_CM_LM",SAP_SFIN_BCG_CM_LM,Liquidity Management,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Create Single Payment,Transactional,SAP_SFIN_BC_AP_OPERATIONS,"SAP_SFIN_BCG_APAR_PAYMENTS, SAP_SFIN_BCG_APAR_CORR, SAP_SFIN_BCG_AP_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Payments, Correspondence, Supplier Accounts, Daily Business",SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_CREATE_SPAY
+Create Correspondence,Transactional,SAP_SFIN_BC_APAR_OPER,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_CORRESPOND
+Display Chart of Accounts (Version 2),Transactional,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_MNG_COA
+Manage Profit Center Groups,FPM/WebDynpro,"SAP_SFIN_BC_CO_MD_PCA, SAP_SFIN_BC_GL_MASTER_DATA","SAP_SFIN_BCG_CO_MD, SAP_SFIN_BCG_GL_MASTDATA","Controlling - Master Data, Master Data","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",
+Liquidity Plans,"Analytical, Design Studio","SAP_SFIN_BC_CM_LM, SAP_SFIN_BC_CM_LM",,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_DS_ANALYZE
+Manage Automatic Payments,Transactional,SAP_SFIN_BC_APAR_OPER,"SAP_SFIN_BCG_APAR_PAYMENTS, SAP_SFIN_BCG_APAR_CORR, SAP_SFIN_BCG_AP_CUST_ACC, SAP_SFIN_BCG_AR_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Payments, Correspondence, Supplier Accounts, Customer Accounts, Daily Business","SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant",FIN_SCHPMTPRPSL
+Revise Payment Proposals,Transactional,SAP_SFIN_BC_APAR_OPER,"SAP_SFIN_BCG_APAR_PAYMENTS, SAP_SFIN_BCG_APAR_CORR, SAP_SFIN_BCG_AP_CUST_ACC, SAP_SFIN_BCG_AR_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Payments, Correspondence, Supplier Accounts, Customer Accounts, Daily Business","SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant",FIN_REVPAYPRPSL
+Clear Incoming Payments,Transactional,"SAP_SFIN_BC_AR_OPERATIONS, SAP_SFIN_BC_AR_INC_PAYM","SAP_SFIN_BCG_AR_SUPP_ACC, SAP_SFIN_BCG_APAR_PAYMENTS, SAP_SFIN_BCG_AR_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Accounts Receivable Accountant, Payments, Customer Accounts, Daily Business",SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_ARMANCLEAR
+Open Posting Periods,Transactional,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_OPENPERIODS
+Market Segments - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_MSEG,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Profit Centers - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+P&L - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Cost Centers - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Internal Orders - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_OPA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Projects - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PS,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Market Segments - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_MSEG,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Profit Centers - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+P&L - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Cost Centers - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Internal Orders - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_OPA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Projects - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PS,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Market Segments - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_MSEG,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Profit Centers - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+P&L - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Cost Centers - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Internal Orders - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_OPA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Projects - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PS,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Market Segments - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_MSEG,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Profit Centers - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+P&L - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Internal Orders - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_OPA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Cost Centers - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Journal Entry Analyzer (S/4HANA),FPM/WebDynpro,SAP_SFIN_BC_GL_GEN_REP,SAP_SFIN_BCG_GL_GEN_REP,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Projects - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_PS,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Trial Balance (Version 2),FPM/WebDynpro,SAP_SFIN_BC_GL_GEN_REP,SAP_SFIN_BCG_GL_GEN_REP,General Reporting,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Audit Journal,Analytical,SAP_SFIN_BC_GL_GEN_REP,SAP_SFIN_BCG_GL_GEN_REP,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GLAUDITJRNL
+Define Accounting Clerks,Transactional,SAP_SFIN_BC_AR_CURR_SET,,,"SAP_BR_AR_MANAGER, SAP_BR_AR_ACCOUNTANT","Accounts Receivable Manager, Accounts Receivable Accountant",SAKP_GEN_UI_S1
+Manage Internal Orders,FPM/WebDynpro,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Manage Cost Centers,FPM/WebDynpro,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Manage Cost Center Groups,FPM/WebDynpro,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Manage Activity Type Master Data,FPM/WebDynpro,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Manage Internal Order Groups,FPM/WebDynpro,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Manage Activity Type Groups,FPM/WebDynpro,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Transfer Postings for  Doubtful Receivables,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Further Valuations,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Schedule Automatic Payments,GUI,SAP_SFIN_BC_APAR_OPER,,,"SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT","Accounts Receivable Accountant, Accounts Payable Accountant",
+Schedule Automatic Payments Periodically,GUI,SAP_SFIN_BC_APAR_OPER,SAP_SFIN_BCG_APAR_PAYMENTS,Payments,"SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant",
+SEPA Direct Debit Pre-notifications - After Prenotification,GUI,SAP_SFIN_BC_AR_OPERATIONS,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Account Determination,Transactional,SAP_SFIN_BC_FI_CONFIG,SAP_SFIN_BCG_FI_CONFIG,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_ACC_DET
+Post Incoming Payments,Transactional,SAP_SFIN_BC_APAR_OPER,SAP_SFIN_BCG_APAR_PAYMENTS,Accounts Receivable Accountant,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_AR_POSTPAYM
+Manage Bank Accounts,FPM/WebDynpro,SAP_SFIN_BC_CM_BAM,SAP_SFIN_BCG_CM_BAM,,SAP_BR_CASH_MANAGER,Cash Manager,
+Clear Outgoing Payments,Transactional,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_AP_SUPP_ACC,Accounts Payables Accountant,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_APMANCLEAR
+Initiate Review Process,FPM/WebDynpro,SAP_SFIN_BC_CM_MANAGER,SAP_SFIN_BCG_CM_BAM,,SAP_BR_CASH_MANAGER,Cash Manager,
+Monitor Review Status,FPM/WebDynpro,SAP_SFIN_BC_CM_MANAGER,SAP_SFIN_BCG_CM_BAM,,SAP_BR_CASH_MANAGER,Cash Manager,
+My Sent Requests,FPM/WebDynpro,SAP_SFIN_BC_CM_BAM,SAP_SFIN_BCG_CM_BAM,,SAP_BR_CASH_MANAGER,Cash Manager,
+Maintain Signatory,FPM/WebDynpro,SAP_SFIN_BC_CM_MANAGER,SAP_SFIN_BCG_CM_BAM,,SAP_BR_CASH_MANAGER,Cash Manager,
+Account Balance Audit Trail,Analytical,SAP_SFIN_BC_EXTR_AUDITOR,,,SAP_BR_EXTERNAL_AUDITOR,External Auditor,FIN_BALAUDTR
+"Clear Open Items Automatically - With Currency, Clear Open Items - Automatic Clearing",GUI,"SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BC_APAR_OPER","SAP_SFIN_BCG_GL_DOC_PROC,SAP_SFIN_BCG_AP_CUST_ACC,SAP_SFI","Operational Processing,Supplier Accounts,Customer Accounts","SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant, General Ledger Accountant",
+Clear Open Items Automatically - For Ledger Group,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Material Inventory Values - Rounding Differences,FPM/WebDynpro,SAP_SFIN_BC_IA_MAT_PV_REP,SAP_SFIN_BCG_IA_MAT_PV_REP,,SAP_BR_INVENTORY_ACCOUNTANT,Inventory Accountant,
+Search for Cost Centers,Transactional,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,FIN_COSTCENTER
+Search for Profit Centers,Transactional,"SAP_SFIN_BC_CO_MD_PCA, SAP_SFIN_BC_GL_MASTER_DATA","SAP_SFIN_BCG_CO_MD, SAP_SFIN_BCG_GL_MASTDATA","Controlling - Master Data, Master Data","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",FIN_PROFITCENTR
+Replicate Runtime Hierarchy,Transactional,"SAP_SFIN_BC_GL_GEN_REP, SAP_SFIN_BC_GL_GEN_REP",,,"SAP_BR_GL_ACCOUNTANT, SAP_BR_CONTROLLER","General Ledger Accountant, Controller",NW_APS_APJ
+Schedule Actual Overhead Allocation (Cost Centers),Transactional,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,NW_APS_APJ
+Schedule Actual Overhead Allocation (Profitability Analysis),Transactional,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,NW_APS_APJ
+Schedule Actual Settlement For Projects,Transactional,SAP_SFIN_BC_CO_PE_PS_SETT,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,NW_APS_APJ
+Schedule Results Analysis For Projects,Transactional,SAP_SFIN_BC_CO_PE_PS_SETT,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,NW_APS_APJ
+Create Dunning Notices,GUI,SAP_SFIN_BC_APAR_OPER,SAP_SFIN_BCG_APAR_CORR,Correspondence,"SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant",
+Reprocess Bank Statement Items,Transactional,SAP_SFIN_BC_BA_BANKSTAT,SAP_SFIN_BCG_CM_DAILY_SPECIALIST,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,FIN_BSIT_REPRC
+Manage Bank Statements,Transactional,SAP_SFIN_BC_BA_BANKSTAT,SAP_SFIN_BCG_CM_DAILY_SPECIALIST,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,FIN_BS_MANAGE
+Manage Banks,Transactional,"SAP_SFIN_BC_CM_BAM, SAP_SFIN_BC_CM_BAM","SAP_SFIN_BCG_CM_BAM, SAP_SFIN_BCG_CM_BAM",",","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_BANK
+Foreign Bank Account Report,Transactional,"SAP_SFIN_BC_CM_BAM, SAP_SFIN_BC_CM_BAM","SAP_SFIN_BCG_CM_BAM, SAP_SFIN_BCG_CM_BAM",",","SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",FIN_FBAR
+Manage Checkbooks,Transactional,"SAP_SFIN_BC_AP_CHECK_PROC, SAP_SFIN_BC_AP_CHECK_PROC",,,"SAP_BR_AP_MANAGER, SAP_BR_AP_ACCOUNTANT","Accounts Payable Manager, Accounts Payable Accountant",FIN_CHKBOOKMNG
+Manage Outgoing Checks,Transactional,"SAP_SFIN_BC_AP_CHECK_PROC, SAP_SFIN_BC_AP_CHECK_PROC",,,"SAP_BR_AP_MANAGER, SAP_BR_AP_ACCOUNTANT","Accounts Payable Manager, Accounts Payable Accountant",FIN_CHECKMNG
+Clear G/L Accounts,Transactional,SAP_FIN_BC_GL_DOC_PROC,SAP_FIN_BCG_GL_DOC_PROC,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GL_GLMC
+Plan Cost Centers on Periods,FPM/WebDynpro,SAP_SFIN_BC_CO_PLAN_CCA,SAP_SFIN_BCG_CO_PLAN,Controlling - Planning,SAP_BR_CONTROLLER,Controller,
+Sales Orders - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_MSEG,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Functional Areas - Actuals,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_COS,"SAP_SFIN_BCG_CO_REPORTS, SAP_SFIN_BCG_CO_REP_INV","Controlling - Reporting, Controlling - Production Cost Reporting","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Functional Areas - Plan/Actual,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_COS,"SAP_SFIN_BCG_CO_REPORTS, SAP_SFIN_BCG_CO_REP_INV","Controlling - Reporting, Controlling - Production Cost Reporting","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Functional Areas - Plan/Actual with Currency Translation,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_COS,"SAP_SFIN_BCG_CO_REPORTS, SAP_SFIN_BCG_CO_REP_INV","Controlling - Reporting, Controlling - Production Cost Reporting","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Functional Areas - Plan/Actual YTD,FPM/WebDynpro,SAP_SFIN_BC_CO_REP_COS,"SAP_SFIN_BCG_CO_REPORTS, SAP_SFIN_BCG_CO_REP_INV","Controlling - Reporting, Controlling - Production Cost Reporting","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Asset Master Worklist,Transactional,SAP_SFIN_BC_AA_MASTER_DATA,,,SAP_BR_AA_ACCOUNTANT,Asset Accountant,FIN_AA_MSTR_WL
+Carry Forward Balances,Transactional,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GLBCF
+Post Tax Payables,Transactional,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_TAXPAYPOST
+Manage Recurring Journal Entries,Transactional,SAP_SFIN_BC_GL_REC_ENTRY,SAP_SFIN_BCG_GL_REC_ENTRY,Recurring Entries,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_GL_RJET
+Manage Statistical Key Figures,Transactional,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,FIN_STKF
+Manage Internal Orders (Version 2),Transactional,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,FIN_IO
+Manage Activity Types,Transactional,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,FIN_ACTP
+Post Currency Adjustments,Transactional,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_POSTCRCYAD
+Post Outgoing Payments,Transactional,SAP_SFIN_BC_APAR_OPER,SAP_SFIN_BCG_APAR_PAYMENTS,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_AP_POSTPAYM
+Asset History Sheet,FPM/WebDynpro,SAP_SFIN_BC_AA_GEN_REP,SAP_SFIN_BCG_AA_GEN_REP,General Reporting,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Balances,FPM/WebDynpro,SAP_SFIN_BC_AA_GEN_REP,SAP_SFIN_BCG_AA_GEN_REP,General Reporting,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Reprocessing Rate of Incoming Payments,Analytical,SAP_SFIN_BC_AR_ANALYTICS,,,SAP_BR_AR_MANAGER,Accounts Receivable Manager,SBRT_APPSS1
+Manage Lockbox Batches,Transactional,SAP_SFIN_BC_BA_LOCKBOX,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,FIN_LB_MANAGE
+Manage Supplier Down Payment Requests,Transactional,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_APAR_PAYMENTS,Payments,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,FIN_APDPREQ
+Manage Customer Down Payment Requests,Transactional,"SAP_SFIN_BC_AR_INVOICES, SAP_SFIN_BC_AR_INC_PAYM",SAP_SFIN_BCG_APAR_PAYMENTS,Payments,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_ARDPREQ
+Display Financial Statement - China,Analytical,SAP_SFIN_BC_GL_GEN_REP_CN,SAP_SFIN_BCG_GL_GEN_REP_CN,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,GLO_FINSTATMT
+Manage Financial Statement Structures - China,Transactional,SAP_SFIN_BC_GL_GEN_REP_CN,SAP_SFIN_BCG_GL_GEN_REP_CN,General Ledger - Reporting for China,"SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_CN","General Ledger Accountant, General Ledger Accountant for China",GLO_FORM_STRUC
+Import Financial Plan Data,Transactional,SAP_SFIN_BC_CO_PLAN_CCA,SAP_SFIN_BCG_CO_PLAN,Controlling - Planning,SAP_BR_CONTROLLER,Controller,FIN_UPLPLANDATA
+Activity Type (S/4HANA),Factsheet,SAP_SFIN_BC_CO_FS_CCA,,,SAP_BR_CONTROLLER,Controller,FIN_FS_ACTTYPE
+Controlling Document (S/4HANA),Factsheet,SAP_SFIN_BC_CO_FS_DOC,,,SAP_BR_CONTROLLER,Controller,FIN_FS_CTRLGDOC
+Cost Center (S/4HANA),Factsheet,SAP_SFIN_BC_CO_FS_CCA,,,SAP_BR_CONTROLLER,Controller,FIN_FS_COSTCTR
+Cost Center Group (S/4HANA),Factsheet,SAP_SFIN_BC_CO_FS_CCA,,,SAP_BR_CONTROLLER,Controller,FIN_FS_COSTCTRG
+Customer Accounting Document (S/4HANA),Factsheet,SAP_SFIN_BC_FACT_ACC_DOC,,,"SAP_BR_AR_ACCOUNTANT, SAP_BR_WAREHOUSE_CLERK, SAP_BR_CREDIT_CONTROLLER, SAP_BR_INVENTORY_MANAGER, SAP_BR_AP_MANAGER, SAP_BR_GL_ACCOUNTANT, SAP_BR_AR_MANAGER, SAP_BR_AP_ACCOUNTANT","Accounts Receivable Accountant, Warehouse Clerk, Credit Controller, Inventory Manager, Accounts Payable Manager, General Ledger Accountant, Accounts Receivable Manager, Accounts Payable Accountant",FIN_FS_CUSACDOC
+Fixed Asset (S/4HANA),Factsheet,SAP_SFIN_BC_FACTS_FAA_DOC,,,SAP_BR_AA_ACCOUNTANT,Asset Accountant,FIN_FS_FASSET
+G/L Account (S/4HANA),Factsheet,SAP_SFIN_BC_FACT_GLACC,,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,FIN_FS_GLACCT
+Journal Entry (S/4HANA),Factsheet,SAP_SFIN_BC_FACT_ACC_DOC,,,"SAP_BR_GL_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_MANAGER, SAP_BR_INVENTORY_MANAGER, SAP_BR_CREDIT_CONTROLLER, SAP_BR_WAREHOUSE_CLERK, SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_MANAGER","General Ledger Accountant, Accounts Receivable Accountant, Accounts Payable Manager, Inventory Manager, Credit Controller, Warehouse Clerk, Accounts Payable Accountant, Accounts Receivable Manager",FIN_FS_GLACDOC
+Internal Order (S/4HANA),Factsheet,SAP_SFIN_BC_CO_FS_OPA,,,SAP_BR_CONTROLLER,Controller,FIN_FS_INTORDER
+Profit Center (S/4HANA),Factsheet,SAP_SFIN_BC_CO_FS_PCA,,,"SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",FIN_FS_PRFTCTR
+Statistical Key Figure (S/4HANA),Transactional,SAP_SFIN_BC_CO_FS_CCA,,,SAP_BR_CONTROLLER,Controller,FIN_FS_SKF
+Supplier Accounting Document (S/4HANA),Factsheet,"SAP_SFIN_BC_FACT_ACC_DOC, SAP_SFIN_BC_AP_CHECK_PROC",SAP_SFIN_BCG_AP_CHECK,Checks,"SAP_BR_AP_MANAGER, SAP_BR_AP_ACCOUNTANT, SAP_BR_WAREHOUSE_CLERK, SAP_BR_CREDIT_CONTROLLER, SAP_BR_INVENTORY_MANAGER, SAP_BR_GL_ACCOUNTANT, SAP_BR_AR_MANAGER, SAP_BR_AR_ACCOUNTANT","Accounts Payable Manager, Accounts Payable Accountant, Warehouse Clerk, Credit Controller, Inventory Manager, General Ledger Accountant, Accounts Receivable Manager, Accounts Receivable Accountant",FIN_FS_SUPACDOC
+Aging Analysis (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Bank Statement Monitor (S/4HANA),Analytical,SAP_SFIN_BC_CM_MANAGER,SAP_SFIN_BCG_CM_DAILY,,SAP_BR_CASH_MANAGER,Cash Manager,
+Cash Discount Forecast (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Cash Discount Utilization (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Cash Position (S/4HANA),Analytical,SAP_SFIN_BC_CM_MANAGER,SAP_SFIN_BCG_CM_DAILY,Daily Business,SAP_BR_CASH_MANAGER,Cash Manager,SBRT_APPSS1
+Collection Progress,Analytical,SAP_SFIN_BC_AR_ANALYTICS,SAP_SFIN_BCG_AR_REPORTING,Reporting,SAP_BR_AR_MANAGER,Accounts Receivable Manager,SBRT_APPSS1
+Days Payable Outstanding Analysis (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Future Payables (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Invoice Processing Time (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Overdue Payables (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,SBRT_APPSS1
+Overdue Receivables (S/4HANA),Analytical,SAP_SFIN_BC_AR_ANALYTICS,SAP_SFIN_BCG_AR_REPORTING,,SAP_BR_AR_MANAGER,Accounts Receivable Manager,
+Supplier Payment Analysis (Manual and Automatic Payments) (S/4HANA),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Supplier Payment Analysis(Open Payments),Analytical,SAP_SFIN_BC_AP_ANALYTICS,SAP_SFIN_BCG_AP_REPORTING,Reporting,SAP_BR_AP_MANAGER,Accounts Payable Manager,
+Credit Limit Utilization (S/4HANA),Analytical,SAP_SFIN_BC_CR_ANALYTICS,SAP_SFIN_BCG_CR_REPORTING,Reporting,SAP_BR_CREDIT_CONTROLLER,Credit Controller,SBRT_APPSS1
+Open Disputes,Analytical,SAP_SFIN_BC_AR_ANALYTICS,SAP_SFIN_BCG_AR_REPORTING,Reporting,SAP_BR_AR_MANAGER,Accounts Receivable Manager,SBRT_APPSS1
+Promises to Pay,Analytical,SAP_SFIN_BC_AR_ANALYTICS,SAP_SFIN_BCG_AR_REPORTING,Reporting,SAP_BR_AR_MANAGER,Accounts Receivable Manager,SBRT_APPSS1
+Project WIP Details (SAP S4HANA OnPremise),Transactional,SAP_SFIN_BC_CO_REP_PS,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,FIN_PROJWIPDET
+House Bank (S/4HANA),Factsheet,"SAP_FIN_BC_CM_BAM, SAP_FIN_BC_CM_BAM_MC","SAP_FIN_BCG_CM_BAM, SAP_FIN_BCG_CM_BAM_MC",",","SAP_BCR_FIN_CM_BANK_ACC_MGM, SAP_BCR_FIN_CM_BAM_MC",,FIN_FS_HBANK
+House Bank Account (S/4HANA),Factsheet,"SAP_FIN_BC_CM_BAM_MC, SAP_FIN_BC_CM_BAM","SAP_FIN_BCG_CM_BAM_MC, SAP_FIN_BCG_CM_BAM",",","SAP_BCR_FIN_CM_BAM_MC, SAP_BCR_FIN_CM_BANK_ACC_MGM",,FIN_FS_HBACCT
+Bank (S/4HANA),Factsheet,"SAP_FIN_BC_CM_BAM, SAP_FIN_BC_CM_BAM_MC","SAP_FIN_BCG_CM_BAM, SAP_FIN_BCG_CM_BAM_MC",",","SAP_BCR_FIN_CM_BANK_ACC_MGM, SAP_BCR_FIN_CM_BAM_MC",,FIN_FS_BANK
+FIN User Default Parameter Plugin,Transactional,"SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM, SAP_SFIN_BC_USER_PARAM",,,"SAP_BR_AA_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_MANAGER, SAP_BR_AR_MANAGER, SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST, SAP_BR_CONTROLLER, SAP_BR_CREDIT_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Asset Accountant, Accounts Payable Accountant, Accounts Receivable Accountant, Accounts Payable Manager, Accounts Receivable Manager, Cash Manager, Cash Management Specialist, Controller, Credit Controller, General Ledger Accountant",FIN_ACC_USERPAR
+Manage Invoice Summary - Japan,Transactional,SAP_FIN_BC_AR_INVOICES_JP,SAP_FIN_BCG_AR_INVOICES_JP,Accounts Receivable - Manage invoices - Japan,SAP_BR_AR_ACCOUNTANT_JP,Accounts Receivable Accountant for Japan,FIN_INV_SUM
+Production Cost Analysis,Transactional,SAP_SFIN_BC_CO_REP_INV_PRO,SAP_SFIN_BCG_CO_REP_INV,Controlling - Production Cost Reporting,SAP_BR_CONTROLLER_PROD,Controller - Production Costs,FIN_PRDCSTANALY
+Create Balance Confirmations as PDF - For Customers,GUI,SAP_SFIN_BC_AR_OPERATIONS,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Manage Payment Media,Transactional,SAP_SFIN_BC_APAR_OPER,"SAP_SFIN_BCG_APAR_PAYMENTS, SAP_SFIN_BCG_APAR_CORR, SAP_SFIN_BCG_AP_CUST_ACC, SAP_SFIN_BCG_AR_CUST_ACC, SAP_SFIN_BCG_AR_DAILY","Payments, Correspondence, Supplier Accounts, Customer Accounts, Daily Business","SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT","Accounts Payable Accountant, Accounts Receivable Accountant",FIN_PMTMDAMAN
+Create Balance Confirmations as PDF - For Suppliers,GUI,SAP_SFIN_BC_AP_OPERATIONS,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Schedule Asset Accounting Jobs,Transactional,"SAP_FIN_BC_AA_PER_ACT_MC, SAP_SFIN_BC_CO_PE_CCA, SAP_SFIN_BC_CO_PE_PS_SETT, SAP_SFIN_BC_CO_REP_GEN, SAP_SFIN_BC_GL_GEN_REP","SAP_FIN_BCG_AA_PER_ACT_MC, SAP_SFIN_BCG_CO_PER_END, SAP_SFIN_BCG_CO_REPORTS, SAP_SFIN_BCG_GL_GEN_REP","Asset Accounting - Periodic Activities, Controlling - Period End Processing, Controlling - Reporting, General Reporting","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",(BSP not existing: NW_APS_APJ)
+Schedule General Ledger Accounting Jobs,Transactional,SAP_FIN_BC_GL_PERIOD_ACT,FIN_BCG_GL_PERIOD_ACT,General Ledger - Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,NW_APS_APJ_LIB
+Display Customer Summary - China,Analytical,SAP_SFIN_BC_AR_OPER_CN,SAP_SFIN_BCG_AR_DAILY_CN,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,GLO_CUSTSMMRY
+Maintain Virtual Accounts - Japan,Transactional,SAP_FIN_BC_AR_INVOICES_JP,SAP_FIN_BCG_AR_INVOICES_JP,Accounts Receivable - Manage invoices - Japan,SAP_BR_AR_ACCOUNTANT_JP,Accounts Receivable Accountant for Japan,FIN_VIR_ACC
+Display Supplier Summary - China,Analytical,SAP_SFIN_BC_AP_OPER_CN,SAP_SFIN_BCG_AP_DAILY_CN,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,GLO_SUPPSMMRY
+Event-Based Revenue Recognition,Transactional,SAP_SFIN_BC_CO_REP_PS,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,FIN_EBREVREC
+Edit Options for Journal Entries - My Settings,Transactional,"SAP_SFIN_BC_APAR_OPER, SAP_SFIN_BC_BA_BANKSTAT, SAP_SFIN_BC_GL_USER_PARAM",,,,,FIN_EDITOPT_M
+Define Compliance Reports,Transactional,SAP_FIN_BC_SRF_CONF,SAP_FIN_BCG_SRF_CONF,Statutory Reporting,SAP_BR_ADMINISTRATOR,Administrator,SRF_REP_DEF_S1
+Display G/L Account Balances - China,Analytical,SAP_SFIN_BC_GL_GEN_REP_CN,SAP_SFIN_BCG_GL_GEN_REP_CN,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,GLO_GLA_BALANCE
+Display Credit Log,Transactional,SAP_SFIN_BC_CR_DISP_DATA,"SAP_SFIN_BCG_CR_REPORTING, SAP_SFIN_BCG_CR_DAILY, SAP_SFIN_BCG_CR_MASTER_DATA","Reporting, Daily Business, Master Data",SAP_BR_CREDIT_CONTROLLER,Credit Controller,NW_APS_APL
+Schedule Accounts Payable Jobs,Transactional,SAP_SFIN_BC_APAR_OPER,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,NW_APS_APJ_LIB
+Edit Journal Entry for Invoice Summary - Japan,Transactional,SAP_FIN_BC_AR_INVOICES_JP,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,FIN_INV_SUM_EDT
+Manage Tax Invoices - South Korea,Transactional,SAP_FIN_BC_AR_TAX_INV_KR,SAP_FIN_BCG_AR_TAX_INV_KR,Accounts Receivable - Manage Tax Invoices - South Korea,SAP_BR_AR_ACCOUNTANT_KR,Accounts Receivable Accountant for South Korea,GLO_TAXINV_KR
+Reverse Clearing of Payment Requests,GUI,SAP_SFIN_BC_BA_REVERSAL,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Regroup Receivables / Payables,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create Actual Assessment Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Change Actual Assessment Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Actual Assessment Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Delete Actual Assessment Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Execute Actual Assessment G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Overview Actual Assessment G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create Actual Distribution Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Change Actual Distribution Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Actual Distribution Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Delete Actual Distribution Cycle G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Execute Actual Distribution G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Overview Actual Distribution G/L,GUI,SAP_SFIN_BC_GL_ALLOCATIONS,SAP_SFIN_BCG_GL_ALLOCATIONS,Allocations,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Provisions for Doubtful Receivables,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Perform Foreign Currency Valuation,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Journal Entries,GUI,SAP_SFIN_BC_AA_MASTER_DATA,,,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Post with Clearing - For Ledger Group,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+"Request Correspondence, Create Correspondence Request",GUI,"SAP_SFIN_BC_GL_CORR,SAP_SFIN_BC_APAR_OPER",SAP_SFIN_BCG_GL_CORR,Correspondence,"SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT","Accounts Receivable Accountant, Accounts Payable Accountant, General Ledger Accountant",
+Clear G/L Accounts - For Ledger Group,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create Incoming Invoices,GUI,SAP_SFIN_BC_AP_INVOICES,,,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Create Outgoing Invoices,GUI,SAP_SFIN_BC_AR_INVOICES,SAP_SFIN_BCG_AR_DAILY,Daily Business,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display Changes of Recurring Entry,GUI,SAP_SFIN_BC_GL_REC_ENTRY,SAP_SFIN_BCG_GL_REC_ENTRY,Recurring Entries,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create Payment Advices,GUI,SAP_SFIN_BC_AR_PAYM_ADV,SAP_SFIN_BCG_AR_PAYM_ADV,Payment Advices,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Change Payment Advices,GUI,SAP_SFIN_BC_AR_PAYM_ADV,SAP_SFIN_BCG_AR_PAYM_ADV,Payment Advices,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display Payment Advices,GUI,SAP_SFIN_BC_AR_PAYM_ADV,SAP_SFIN_BCG_AR_PAYM_ADV,Payment Advices,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Delete Payment Advices,GUI,SAP_SFIN_BC_AR_PAYM_ADV,SAP_SFIN_BCG_AR_PAYM_ADV,Payment Advices,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display Status of Intercompany Reconciliation,GUI,SAP_SFIN_BC_GL_ICO_REC,SAP_SFIN_BCG_GL_ICO_REC,Intercompany Reconciliation,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Reset Cleared Items,GUI,"SAP_SFIN_BC_AP_REVERSAL,SAP_SFIN_BC_AR_REVERSAL,SAP_SFIN_BC_GL_DOC_PROC",SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,"SAP_BR_GL_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT, SAP_BR_AR_ACCOUNTANT","General Ledger Accountant, Accounts Payable Accountant, Accounts Receivable Accountant",
+Enter Accrual/Deferral Journal Entry,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Change Journal Entries - Cross-Company Code,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Journal Entries - Cross-Company Code,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Reverse Journal Entries - Cross-Company Code,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Post Parked Journal Entries,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Change Parked Journal Entries,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Parked Journal Entries,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Change Parked Journal Entries - Header,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Parked Journal Entry Changes,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Reject Parked Journal Entries,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Print Payment Form,GUI,SAP_SFIN_BC_AP_PRINT_FORM,SAP_SFIN_BCG_AP_CHECK,Checks,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Display Checks,GUI,SAP_SFIN_BC_AP_CHECK_PROC,,,"SAP_BR_AP_MANAGER, SAP_BR_AP_ACCOUNTANT","Accounts Payable Manager, Accounts Payable Accountant",
+Change Checks,GUI,SAP_SFIN_BC_AP_CHECK_PROC,,,"SAP_BR_AP_ACCOUNTANT, SAP_BR_AP_MANAGER","Accounts Payable Accountant, Accounts Payable Manager",
+Change Cashed Checks,GUI,SAP_SFIN_BC_AP_CHECK_PROC,,,"SAP_BR_AP_MANAGER, SAP_BR_AP_ACCOUNTANT","Accounts Payable Manager, Accounts Payable Accountant",
+Manage Check Lots,GUI,SAP_SFIN_BC_AP_CHECK_PROC,,,"SAP_BR_AP_ACCOUNTANT, SAP_BR_AP_MANAGER","Accounts Payable Accountant, Accounts Payable Manager",
+Display Check Registers,GUI,SAP_SFIN_BC_AP_CHECK_PROC,,,"SAP_BR_AP_MANAGER, SAP_BR_AP_ACCOUNTANT","Accounts Payable Manager, Accounts Payable Accountant",
+Import and Post Cashed Checks,GUI,SAP_SFIN_BC_BA_CASHEDCHECK,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Activate Inactive Hierarchies,GUI,"SAP_SFIN_BC_CO_MD_PCA,SAP_SFIN_BC_CO_MD_CCA",,,SAP_BR_CONTROLLER,Controller,
+Find Where-Used List - Cost Centers,GUI,SAP_SFIN_BC_CO_MD_CCA,,,SAP_BR_CONTROLLER,Controller,
+Navigate to Group Utilities - Master Hierarchies,GUI,SAP_SFIN_BC_CO_MD_CCA,,,SAP_BR_CONTROLLER,Controller,
+Administrate Data Medium,GUI,"SAP_SFIN_BC_CM_CASH_OPS,SAP_SFIN_BC_APAR_OPER",SAP_SFIN_BCG_CM_DAILY_SPECIALIST,Daily Business,"SAP_BR_AP_ACCOUNTANT, SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER, SAP_BR_AR_ACCOUNTANT","Accounts Payable Accountant, Cash Management Specialist, Cash Manager, Accounts Receivable Accountant",
+Reprocess Incoming Checks - From Check Deposit,GUI,SAP_SFIN_BC_BA_CHECKDEPOS,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Reprocess Incoming Checks - From Lockbox,GUI,SAP_SFIN_BC_BA_LOCKBOX,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Reprocess Bank Statement Items,GUI,SAP_SFIN_BC_BA_BANKSTAT,SAP_SFIN_BCG_CM_DAILY_SPECIALIST,Daily Business,"SAP_BR_CASH_SPECIALIST, SAP_BR_AR_ACCOUNTANT","Cash Management Specialist, Accounts Receivable Accountant",
+Import and Forward Bank Statements,GUI,SAP_SFIN_BC_BA_BANKSTAT,,,"SAP_BR_CASH_SPECIALIST, SAP_BR_AR_ACCOUNTANT","Cash Management Specialist, Accounts Receivable Accountant",
+Upload Bank Statements - Using Format Selection,GUI,SAP_SFIN_BC_BA_BANKSTAT,SAP_SFIN_BCG_CM_DAILY_SPECIALIST,Daily Business,"SAP_BR_CASH_SPECIALIST, SAP_BR_AR_ACCOUNTANT","Cash Management Specialist, Accounts Receivable Accountant",
+Create Memo Record - FF63,GUI,"SAP_SFIN_BC_CM_BASIC, SAP_SFIN_BC_CM_CASH_OPS",,,"SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Cash Management Specialist, Cash Manager",
+Display Memo Records - FF65,GUI,"SAP_SFIN_BC_CM_BASIC,SAP_SFIN_BC_CM_CASH_OPS",,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Manage Check Deposits,GUI,SAP_SFIN_BC_BA_CHECKDEPOS,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Edit Memo Record List for Cash Position,GUI,SAP_SFIN_BC_CM_CASH_OPS,,,"SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Cash Management Specialist, Cash Manager",
+Display Cash Position - FF7AN,GUI,SAP_SFIN_BC_CM_BASIC,,,SAP_BR_CASH_MANAGER,Cash Manager,
+Display Liquidity Forecast - FF7BN,GUI,SAP_SFIN_BC_CM_BASIC,,,SAP_BR_CASH_MANAGER,Cash Manager,
+Upload Electronic Check Deposits,GUI,SAP_SFIN_BC_BA_CHECKDEPOS,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Post Electronic Check Deposits,GUI,SAP_SFIN_BC_BA_CHECKDEPOS,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Upload Bank Statements,GUI,SAP_SFIN_BC_BA_BANKSTAT,SAP_SFIN_BCG_CM_DAILY_SPECIALIST,Daily Business,"SAP_BR_AR_ACCOUNTANT, SAP_BR_CASH_SPECIALIST","Accounts Receivable Accountant, Cash Management Specialist",
+Create Free Form Payment,GUI,SAP_SFIN_BC_BA_PAYREQ_PROC,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Prepare Balance of Payments - Luxembourg,GUI,SAP_FIN_BC_GL_REPORTING_LU,SAP_FIN_BCG_GL_REPORTING_LU,Reporting Luxembourg,SAP_BR_GL_ACCOUNTANT_LU,General Ledger Accountant for Luxembourg,
+Generate GST-03 Form - Malaysia,GUI,SAP_FIN_BC_GL_REPORTING_MY,SAP_FIN_BCG_GL_REPORTING_MY,Reporting Malaysia,SAP_BR_GL_ACCOUNTANT_MY,General Ledger Accountant for Malaysia,
+Create Item Interest Calculation - For Customers,GUI,SAP_SFIN_BC_AR_OPERATIONS,SAP_SFIN_BCG_AR_CUST_ACC,Customer Accounts,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Create Item Interest Calculation - For Suppliers,GUI,SAP_SFIN_BC_AP_OPERATIONS,SAP_SFIN_BCG_AP_CUST_ACC,Supplier Accounts,SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant,
+Display Interest Run,GUI,SAP_SFIN_BC_APAR_DISPLAY,,,"SAP_BR_AR_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT","Accounts Receivable Accountant, Accounts Payable Accountant",
+Resend Billing Document,GUI,SAP_SFIN_BC_AR_OPERATIONS,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Trial Balance Comparison,FPM/WebDynpro,SAP_SFIN_BC_GL_GEN_REP,SAP_SFIN_BCG_GL_GEN_REP,General Reporting,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Upload Lockbox Files,GUI,SAP_SFIN_BC_BA_LOCKBOX,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Post Lockbox Files - FLBP,GUI,SAP_SFIN_BC_BA_LOCKBOX,,,SAP_BR_CASH_SPECIALIST,Cash Management Specialist,
+Display Contract,GUI,SAP_SFIN_BC_CM_CASH_OPS,,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Display account statement,GUI,SAP_SFIN_BC_CM_CASH_OPS,,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Prepare Electronic Tax Return,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Verify Tax Data in External Tax System,GUI,SAP_SFIN_BC_GL_REP_US,SAP_SFIN_BCG_GL_REP_US,Reporting United States,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+G/L Account Changes - Central View,GUI,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Export Data for Electronic Financial Statement,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Export Data for Electronic Financial Statement at Item Level,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Financial Statement in Accordance with XBRL Taxonomy,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Generate Electronic Financial Statement Versions,GUI,SAP_SFIN_BC_GL_CS_EBILANZ,SAP_SFIN_BCG_GL_CS_EBILANZ,General Ledger - Current Settings - Electronic Financial Statement,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create SEPA Mandates,GUI,SAP_SFIN_BC_AR_SEPA_EDIT,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Change SEPA Mandates,GUI,SAP_SFIN_BC_AR_SEPA_EDIT,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display SEPA Mandates,GUI,SAP_SFIN_BC_AR_SEPA_DISP,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display SEPA Mandate Lists,GUI,SAP_SFIN_BC_AR_SEPA_DISP,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+G/L Account Changes - Chart of Accounts View,GUI,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+G/L Account Changes - Company Code View,GUI,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Bank Statement Monitor,GUI,"SAP_SFIN_BC_CM_BAM,SAP_SFIN_BC_CM_CASH_OPS",,,"SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Cash Management Specialist, Cash Manager",
+Process Treasury Transaction,GUI,SAP_SFIN_BC_CM_CASH_OPS,,,"SAP_BR_CASH_MANAGER, SAP_BR_CASH_SPECIALIST","Cash Manager, Cash Management Specialist",
+Park General Journal Entries,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Park General Journal Entries - For Ledger Group,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Global Common Data (GCD) for Electronic Financial Statement,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Stockholder (from GCD)for Electronic Financial Statement,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Generate GCD,GUI,SAP_SFIN_BC_GL_CS_EBILANZ,SAP_SFIN_BCG_GL_CS_EBILANZ,General Ledger - Current Settings - Electronic Financial Statement,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Set Customer Type - China,GUI,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+Maintain Tax Classification Number - China,GUI,SAP_FIN_BC_AR_OPER_PROC_CN,SAP_FIN_BCG_AR_OPER_PROC_CN,Accounts Receivable - Operational Processing - China,SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China,
+"Set Report Relevancy - Set-Based Hierarchies, Set Report Relevancy",GUI,"SAP_SFIN_BC_CO_REP_GEN,SAP_SFIN_BC_GL_GEN_REP","SAP_SFIN_BCG_CO_REPORTS,SAP_SFIN_BCG_GL_GEN_REP","Controlling - Reporting,General Reporting","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",
+Accounts Document Output - China,GUI,SAP_SFIN_BC_GL_GEN_REP_CN,SAP_SFIN_BCG_GL_GEN_REP_CN,General Ledger - Reporting for China,SAP_BR_GL_ACCOUNTANT_CN,General Ledger Accountant for China,
+"Prepare Balance of Payments - Belgium, Prepare Balance of Payments - France",GUI,"SAP_FIN_BC_GL_REPORTING_BE,SAP_FIN_BC_GL_REPORTING_FR","SAP_FIN_BCG_GL_REPORTING_BE,SAP_FIN_BCG_GL_REPORTING_FR","Reporting Belgium,Reporting France","SAP_BR_GL_ACCOUNTANT_BE, SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_FR","General Ledger Accountant for Belgium, General Ledger Accountant, General Ledger Accountant for France",
+Create Cost Element Groups,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Edit Cost Element Groups,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Display Cost Element Groups,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Enter Activity Allocation,GUI,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Post Statistical Key Figures,GUI,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Create Statistical Key Figure Group,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Edit Statistical Key Figure Group,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Display Statistical Key Figure Group,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Edit Master Data - Profit Centers - Collective,GUI,"SAP_SFIN_BC_CO_MD_PCA,SAP_SFIN_BC_GL_MASTER_DATA","SAP_SFIN_BCG_GL_MASTDATA,SAP_SFIN_BCG_CO_MD","Master Data,Controlling - Master Data","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",
+Edit Company Code Assignment - Profit Centers,GUI,"SAP_SFIN_BC_CO_MD_PCA,SAP_SFIN_BC_GL_MASTER_DATA","SAP_SFIN_BCG_CO_MD,SAP_SFIN_BCG_GL_MASTDATA","Controlling - Master Data,Master Data","SAP_BR_GL_ACCOUNTANT, SAP_BR_CONTROLLER","General Ledger Accountant, Controller",
+Create Overhead Allocation Cycles - Profitability Analysis,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Edit Overhead Allocation Cycles - Profitability Analysis,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Display Overhead Allocation Cycles - Profitability Analysis,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Delete Overhead Allocation Cycles - Profitability Analysis,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Run Actual Overhead Allocation - Profitability Analysis,GUI,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Run Results Analysis - Projects,GUI,"SAP_SFIN_BC_CO_PE_PS_RA,SAP_SFIN_BC_CO_PE_INV_PA",SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Calculate Work In Process - Sales Orders,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN_BCG_CO_PER_END,SAP_SFIN","Controlling - Period End Processing,Controlling - Production Cost Period End","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Calculate Work in Process - Orders - Collective,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN,SAP_SFIN_BCG_CO_PER_END","Controlling - Production Cost Period End,Controlling - Period End Processing","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Analyze Summarization Hierarchy,GUI,SAP_SFIN_BC_CO_REP_INV_PRO,"SAP_SFIN_BCG_CO_REPORTS,SAP_SFIN","Controlling - Reporting,Controlling - Production Cost Reporting","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Analyze Sales Orders,GUI,SAP_SFIN_BC_CO_REP_INV_SAL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Analyze Production Order,GUI,SAP_SFIN_BC_CO_REP_INV_PRO,"SAP_SFIN_BCG_CO_REPORTS,SAP_SFIN","Controlling - Reporting,Controlling - Production Cost Reporting","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Analyze Product Cost Collectors,GUI,SAP_SFIN_BC_CO_REP_INV_PRO,"SAP_SFIN,SAP_SFIN_BCG_CO_REPORTS","Controlling - Production Cost Reporting,Controlling - Reporting","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Display CO Production Orders,GUI,SAP_SFIN_BC_CO_MD_INV,SAP_SFIN_BCG_CO_MD_INV,Controlling - Production Cost Master Data,"SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Create Product Cost Collectors - Production Versions - Collective,GUI,"SAP_SFIN_BC_CO_MD_INV,SAP_SFIN_BC_CO_PE_PS_OVH","SAP_SFIN_BCG_CO_PER_END,SAP_SFIN_BCG_,SAP_SFIN_BCG_CO_MD","Controlling - Period End Processing,Controlling - Production Cost Master Data,Controlling - Master Data","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Create Product Cost Collectors,GUI,SAP_SFIN_BC_CO_MD_INV,SAP_SFIN_BCG_CO_MD_INV,Controlling - Production Cost Master Data,"SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Create Unit Cost Estimate - Single,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Change Unit Cost Estimate - Single,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Display Unit Cost Estimate - Single,GUI,SAP_SFIN_BC_IA_MCE,SAP_SFIN_BCG_IA_MCE,Material Cost Estimates - Cost Estimations,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Run Variance Calculation - Orders - By Lot,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN,SAP_SFIN_BCG_CO_PER_END","Controlling - Production Cost Period End,Controlling - Period End Processing","SAP_BR_CONTROLLER_PROD, SAP_BR_CONTROLLER","Controller - Production Costs, Controller",
+Run Variance Calculation - Orders - By Period,GUI,SAP_SFIN_BC_CO_PE_INV,"SAP_SFIN_BCG_CO_PER_END,SAP_SFIN","Controlling - Period End Processing,Controlling - Production Cost Period End","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Run Actual Settlement - Internal Orders,GUI,SAP_SFIN_BC_CO_PE_OPA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Display Cost Line Items - Orders - Actual,GUI,SAP_SFIN_BC_CO_REP_OPA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Edit Prices for Activity Types - Cost Centers,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Delete Cost Centers,GUI,SAP_SFIN_BC_CO_MD_CCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Run Accrual Calculation - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Display Cost Line Items - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Display Actual Cost Documents,GUI,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Analyze Prices for Activity Types - Cost Centers,GUI,SAP_SFIN_BC_CO_REP_CCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Create Overhead Allocation Cycles - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Edit Overhead Allocation Cycles - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Display Overhead Allocation Cycles - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Delete Overhead Allocation Cycles - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_MD_PE,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Run Overhead Allocation - Cost Centers - Actual,GUI,SAP_SFIN_BC_CO_PE_CCA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Display Actual Cost Line Items - Sales Orders,GUI,SAP_SFIN_BC_CO_REP_INV_SAL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+"Maintain Costing Sheet, Define Costing Sheets",GUI,SAP_SFIN_BC_CO_MD_CCA,,,SAP_BR_CONTROLLER,Controller,
+Create Preliminary Cost Estimate,GUI,SAP_SFIN_BC_CO_VAL_INV,SAP_SFIN_BCG_CO_VAL,Controlling - Valuation,SAP_BR_CONTROLLER,Controller,
+"GR/IR Clearing, Clear GR/IR Clearing Account, Clear GR/IR Accounts",GUI,"SAP_SFIN_BC_IA_GRIR,SAP_PRC_BC_INVOICER","SAP_SFIN_BCG_IA_GRIR,SAP_PRC_BCG_INVOICER","Account Maintenance - GR/IR Clearing,Supplier Invoice Processing","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_AP_ACCOUNTANT_PROCUREMT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Accounts Payable Accountant - Procurement, Inventory Accountant",
+"Material Price Change, Change Material Costs - Displays static text and icons that can be configured, Change Material Costs",GUI,"SAP_SFIN_BC_IA_MAT_PV,SAP_CMD_BC_PR_MAINT,SAP_SFIN_BC_CO_VAL_INV","SAP_CMD_BCG_PR_MAINT,SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_MAT_PV","Master Data - Product,Controlling - Valuation,Material Prices and Values - Editing","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_PRODMASTER_SPECIALIST, SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Master Data Specialist - Product Data, Controller, Inventory Accountant",
+Debit/Credit Inventory Values,GUI,SAP_SFIN_BC_IA_MAT_PV,SAP_SFIN_BCG_IA_MAT_PV,Material Prices and Values - Editing,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Change FIFO Results,GUI,SAP_SFIN_BC_IA_BSV,SAP_SFIN_BCG_IA_BSV,Balance Sheet Valuation - FIFO,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+FIFO Results,GUI,SAP_SFIN_BC_IA_BSV_REP,SAP_SFIN_BCG_IA_BSV_REP,Balance Sheet Valuation - FIFO Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Execute FIFO Valuation,GUI,SAP_SFIN_BC_IA_BSV,SAP_SFIN_BCG_IA_BSV,Balance Sheet Valuation - FIFO,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+FIFO Change Documents,GUI,SAP_SFIN_BC_IA_BSV_REP,SAP_SFIN_BCG_IA_BSV_REP,Balance Sheet Valuation - FIFO Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Create FIFO Valuation Extract,GUI,SAP_SFIN_BC_IA_BSV,SAP_SFIN_BCG_IA_BSV,Balance Sheet Valuation - FIFO,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Flag Materials for FIFO Valuation,GUI,SAP_SFIN_BC_IA_BSV,SAP_SFIN_BCG_IA_BSV,Balance Sheet Valuation - FIFO,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Delete FIFO Valuation,GUI,SAP_SFIN_BC_IA_BSV,SAP_SFIN_BCG_IA_BSV,Balance Sheet Valuation - FIFO,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Determine Lowest Value - Market Prices,GUI,SAP_SFIN_BC_CO_REP_INV_MAT,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Balance Sheet Values by Account,GUI,"SAP_SFIN_BC_IA_BSV_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_BSV_REP,SAP_SFIN_BCG_CO_VAL","Balance Sheet Valuation - FIFO Reporting,Controlling - Valuation","SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_CONTROLLER","Inventory Accountant, Inventory Accountant, Controller",
+Undo Year-End Closing - For Entire Company Code,GUI,SAP_SFIN_BC_AA_PER_ACT,SAP_SFIN_BCG_AA_PER_ACT,Periodic Activities,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Maintain Exchange Rates,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Maintain Financial Statement Versions,GUI,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Maintain Electronic Financial Statement Versions,GUI,SAP_SFIN_BC_GL_CS_EBILANZ,SAP_SFIN_BCG_GL_CS_EBILANZ,General Ledger - Current Settings - Electronic Financial Statement,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Maintain GCD: Reporter,GUI,SAP_SFIN_BC_GL_CS_EBILANZ,SAP_SFIN_BCG_GL_CS_EBILANZ,General Ledger - Current Settings - Electronic Financial Statement,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Maintain GCD: Revisions,GUI,SAP_SFIN_BC_GL_CS_EBILANZ,SAP_SFIN_BCG_GL_CS_EBILANZ,General Ledger - Current Settings - Electronic Financial Statement,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Maintain GCD: Versions,GUI,SAP_SFIN_BC_GL_CS_EBILANZ,SAP_SFIN_BCG_GL_CS_EBILANZ,General Ledger - Current Settings - Electronic Financial Statement,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Edit Fiscal Year Version,GUI,SAP_SFIN_BC_CO_CONFIG,SAP_SFIN_BCG_CO_CONFIG,Controlling - Configuration,SAP_BR_CONTROLLER,Controller,
+Costing Variants - Product Costing,GUI,SAP_SFIN_BC_IA_MCE_SET,SAP_SFIN_BCG_IA_MCE_SET,Material Cost Estimates - Settings,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Event-Based Revenue Recognition - Postprocessing,GUI,SAP_SFIN_BC_CO_PE_PS_RA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Display Explanation Component,GUI,SAP_SFIN_BC_GL_DOC_PROC,,,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create EC Sales List - Hungary,GUI,SAP_FIN_BC_GL_REPORTING_HU,SAP_FIN_BCG_GL_REPORTING_HU,Reporting Hungary,SAP_BR_GL_ACCOUNTANT_HU,General Ledger Accountant for Belgium,
+Prepare Audit Report - Hungary,GUI,SAP_FIN_BC_GL_REPORTING_HU,SAP_FIN_BCG_GL_REPORTING_HU,Reporting Hungary,SAP_BR_GL_ACCOUNTANT_HU,General Ledger Accountant for Belgium,
+Create Domestic Sales and Purchase List - Hungary,GUI,SAP_FIN_BC_GL_REPORTING_HU,SAP_FIN_BCG_GL_REPORTING_HU,Reporting Hungary,SAP_BR_GL_ACCOUNTANT_HU,General Ledger Accountant for Belgium,
+"Analysis of Deferred Tax Accounts - Spain, Analysis of Deferred Tax Accounts - Italy, Analysis of Deferred Tax Accounts - Hungary, Analysis of Deferred Tax Accounts - Greece, Analysis of Deferred Tax Accounts - France, Analyse Differed Tax Accounts - Russia, Analyse Deferred Tax Accounts - Malaysia, Analyse Deferred Tax Accounts - Hungary, Analyse Deferred Tax Accounts - France, Analyse Deferred Tax Accounts - Mexico",GUI,"SAP_FIN_BC_GL_PER_ACT_FR,SAP_FIN_BC_GL_PER_ACT_HU,SAP_FIN_BC_GL_PER_ACT_MY","SAP_FIN_BCG_GL_PER_ACT_HU,SAP_FIN_BCG_GL_PER_ACT_FR,SAP_FIN_BCG_GL_PER_ACT_MY","General Ledger - Periodic Activities Hungary,General Ledger - Periodic Activities France,General Ledger - Periodic Activities Malaysia","SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_HU, SAP_BR_GL_ACCOUNTANT_MY","General Ledger Accountant, General Ledger Accountant for Belgium, General Ledger Accountant for Malaysia",
+Maintain Investment/Equity History Data - RTCAFD,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+BPC Extension - BPC Category - RTCBCT,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+Currency Translation - RTCCT,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+Raise Data Submit Request - RTCDSR,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+Real-Time Consolidation: Entity Map - RTCENT,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+Flexible Upload - RTCFU,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+BPC Extension - G/L Account - RTCGLA,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+Consolidation Document Display - RTCJD,GUI,SAP_SFIN_BC_RTC_MAIN,,,,,
+Data Submit Request:  Group Lock/Unlock - RTCMPL,GUI,SAP_SFIN_BC_RTC_MAIN,,,,,
+Data Submit Request:  Individual Lock/Unlock - RTCPL,GUI,SAP_SFIN_BC_RTC_MAIN,,,,,
+Trace Back Report - RTCRA,GUI,SAP_SFIN_BC_RTC_MAIN,,,,,
+Selection Maintenance - RTCSEL,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+BPC Extension - Transaction Type - RTCTTP,GUI,SAP_SFIN_BC_RTC_MAIN,SAP_SFIN_BCG_RTC_CONSOLIDATION,Real-Time Consolidation,,,
+Submit Legacy Report in SRF,GUI,"SAP_FIN_BC_AP_ANALYTICS_FR,SAP_FIN_BC_GL_REPORTING_HU,SAP_FIN_BC_GL_REPORTING_LU,SAP_FIN_BC_GL_REPORTING_BE,SAP_FIN_BC_GL_REPORTING_FR",,,"SAP_BR_GL_ACCOUNTANT_BE, SAP_BR_GL_ACCOUNTANT_LU, SAP_BR_GL_ACCOUNTANT_FR, SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_HU, SAP_BR_AP_MANAGER_FR","General Ledger Accountant for Belgium, General Ledger Accountant for Luxembourg, General Ledger Accountant for France, General Ledger Accountant, General Ledger Accountant for Belgium, Accounts Payable Manager for France",
+"Transfer Deferred Tax - Malaysia, Transfer Deferred Tax - Hungary, Transfer Deferred Tax - France, Transfer Deferred Tax - Bulgaria, Transfer Deferred Tax - Mexico, Transfer Deferred Tax - Russia, Deferred Tax Transfer (New) - France",GUI,"SAP_FIN_BC_GL_PER_ACT_FR,SAP_FIN_BC_GL_PER_ACT_HU,SAP_FIN_BC_GL_PER_ACT_MY","SAP_FIN_BCG_GL_PER_ACT_HU,SAP_FIN_BCG_GL_PER_ACT_FR,SAP_FIN_BCG_GL_PER_ACT_MY","General Ledger - Periodic Activities Hungary,General Ledger - Periodic Activities France,General Ledger - Periodic Activities Malaysia","SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_HU, SAP_BR_GL_ACCOUNTANT_MY","General Ledger Accountant, General Ledger Accountant for Belgium, General Ledger Accountant for Malaysia",
+Prepare Annex 16 Forms - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Prepare Property Tax Declaration - Japan,GUI,SAP_FIN_BC_AA_GEN_REP_JP,SAP_FIN_BCG_AA_GEN_REP_JP,Asset Accounting - General Reporting - Japan,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Enter Time Interest Terms,GUI,SAP_SFIN_BC_GL_CURR_SET,SAP_SFIN_BCG_GL_CURR_SET,General Ledger - Current Settings,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Enter Reference Interest Values,GUI,SAP_SFIN_BC_GL_CURR_SET,SAP_SFIN_BCG_GL_CURR_SET,General Ledger - Current Settings,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Assign Sales Order Substitution - Profit Centers,GUI,SAP_SFIN_BC_CO_MD_PCA,SAP_SFIN_BCG_CO_MD,Controlling - Master Data,SAP_BR_CONTROLLER,Controller,
+Define Maximum Base Value,GUI,SAP_SFIN_BC_AA_CURR_SET,SAP_SFIN_BCG_AA_CURR_SET,Current Settings,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Define Asset-Specific Base Value Percentages - Per Asset,GUI,SAP_SFIN_BC_AA_CURR_SET,SAP_SFIN_BCG_AA_CURR_SET,Current Settings,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Change Index Series,GUI,SAP_SFIN_BC_AA_CURR_SET,SAP_SFIN_BCG_AA_CURR_SET,Current Settings,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Transfer Postings for Cross-Company Code Transactions,GUI,SAP_SFIN_BC_GL_DOC_PROC,SAP_SFIN_BCG_GL_DOC_PROC,Operational Processing,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create EC Sales List - Belgium,GUI,SAP_FIN_BC_GL_REPORTING_BE,SAP_FIN_BCG_GL_REPORTING_BE,Reporting Belgium,"SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_BE","General Ledger Accountant, General Ledger Accountant for Belgium",
+Create EC Sales List - Luxembourg,GUI,SAP_FIN_BC_GL_REPORTING_LU,SAP_FIN_BCG_GL_REPORTING_LU,Reporting Luxembourg,SAP_BR_GL_ACCOUNTANT_LU,General Ledger Accountant for Luxembourg,
+Total Depreciation,GUI,SAP_SFIN_BC_AA_GEN_REP,SAP_SFIN_BCG_AA_GEN_REP,General Reporting,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Changes to Asset Master Records,GUI,SAP_SFIN_BC_AA_MASTER_DATA,SAP_SFIN_BCG_AA_MASTDATA,Master Data,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Asset Acquisitions - For mid quarter convention,GUI,SAP_SFIN_BC_AA_ANA_US,SAP_SFIN_BCG_AA_ANA_US,Analytics United States,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Retirement Revenue - Analysis,GUI,SAP_SFIN_BC_AA_ANA_US,SAP_SFIN_BCG_AA_ANA_US,Analytics United States,SAP_BR_AA_ACCOUNTANT,Asset Accountant,
+Display Payment Advices - Overview,GUI,SAP_SFIN_BC_AR_PAYM_ADV,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display Payment Advices - Detailed List,GUI,SAP_SFIN_BC_AR_PAYM_ADV,SAP_SFIN_BCG_AR_PAYM_ADV,Payment Advices,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Reorganize Customer Advices - By Customer Account,GUI,SAP_SFIN_BC_AR_PAYM_ADV,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Reorganize Customer Advices,GUI,SAP_SFIN_BC_AR_PAYM_ADV,,,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Run Foreign Trade Regulations Z5A,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+G/L Account Changes,GUI,SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BCG_GL_MASTDATA,Master Data,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create Advance Return on Sales/Purchase Tax,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Input Tax from Parked Documents,GUI,SAP_SFIN_BC_GL_PARKED_DOC,SAP_SFIN_BCG_GL_PARKED_DOC,Parked Documents,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Display Tax Information per Country,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Create Annual Sales Listing - Belgium,GUI,SAP_FIN_BC_GL_REPORTING_BE,SAP_FIN_BCG_GL_REPORTING_BE,Reporting Belgium,"SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_BE","General Ledger Accountant, General Ledger Accountant for Belgium",
+"PrepareTax Report, Prepare Tax Report - Canada",GUI,"SAP_SFIN_BC_GL_REP_US,SAP_FIN_BC_GL_REPORTING_CA","SAP_FIN_BCG_GL_REP_CA,SAP_SFIN_BCG_GL_REP_US","Reporting Canada,Reporting United States","SAP_BR_GL_ACCOUNTANT_CA, SAP_BR_GL_ACCOUNTANT","General Ledger Accountant for Canada, General Ledger Accountant",
+Run Foreign Trade Regulations Z4,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Cost Estimate Comparison - Material vs. Order,GUI,SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BCG_IA_MCE_REP,Material Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Cost Component Comparison,GUI,SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BCG_IA_MCE_REP,Material Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Cost Element Comparison,GUI,SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BCG_IA_MCE_REP,Material Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Sales Order Selection,GUI,SAP_SFIN_BC_CO_REP_INV_SAL,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Select Production Orders,GUI,SAP_SFIN_BC_CO_REP_INV_PRO,"SAP_SFIN_BCG_CO_REPORTS,SAP_SFIN","Controlling - Reporting,Controlling - Production Cost Reporting","SAP_BR_CONTROLLER, SAP_BR_CONTROLLER_PROD","Controller, Controller - Production Costs",
+Material Costs and Inventory Values,GUI,SAP_SFIN_BC_IA_AC_REP,SAP_SFIN_BCG_IA_AC_REP,Actual Costing - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Costing Run Results,GUI,"SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_IA_MCE_REP,SAP_SFIN_BCG_CO_VAL","Material Cost Estimates - Reporting,Controlling - Valuation","SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Material Cost vs. Cost Estimate,GUI,"SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BC_CO_VAL_INV","SAP_SFIN_BCG_CO_VAL,SAP_SFIN_BCG_IA_MCE_REP","Controlling - Valuation,Material Cost Estimates - Reporting","SAP_BR_CONTROLLER, SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Controller, Inventory Accountant, Inventory Accountant",
+Costing Run Comparison,GUI,SAP_SFIN_BC_IA_MCE_REP,SAP_SFIN_BCG_IA_MCE_REP,Material Cost Estimates - Reporting,"SAP_BR_INVENTORY_ACCOUNTANT, SAP_BR_INVENTORY_ACCOUNTANT","Inventory Accountant, Inventory Accountant",
+Display Key Figures - Profit Center Groups,GUI,SAP_SFIN_BC_CO_REP_PCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Compare ROI - Profit Centers,GUI,SAP_SFIN_BC_CO_REP_PCA,SAP_SFIN_BCG_CO_REPORTS,Controlling - Reporting,SAP_BR_CONTROLLER,Controller,
+Run Foreign Trade Regulation Z4 - Basis Receivables/Paybles,GUI,SAP_SFIN_BC_GL_REP_DE,SAP_SFIN_BCG_GL_REP_DE,Reporting Germany,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Annual Tax Return,GUI,SAP_SFIN_BC_GL_PERIOD_ACT,SAP_SFIN_BCG_GL_PERIOD_ACT,Periodic Activities,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+"Report Generic Withholding Tax - France, Report Generic Withholding Tax - Mexico, Report Generic Withholding Tax - Belgium, Report Generic Withholding Tax - South Korea, United States, Report Generic Withholding Tax - Malaysia, Report Generic Withholding Tax - Australia, Report Generic Withholding Tax - Germany, Report Generic Withholding Tax - Canada, Generic Withholding Tax Reporting - United Kingdom, Generic Withholding Tax Reporting - Philippines, Generic Withholding Tax Reporting - Japan, Generic Withholding Tax Reporting - United States, Generic Withholding Tax Reporting, Generic Withholding Tax Reporting - Colombia, Generic Withholding Tax Reporting - Venezuela, Generic Withholding Tax Reporting - Peru, Generic Withholding Tax Reporting - Saudi Arabia",GUI,"SAP_FIN_BC_AP_ANALYTICS_AU,SAP_FIN_BC_AP_ANALYTICS_JP,SAP_FIN_BC_AP_ANALYTICS_BE,SAP_FIN_BC_AP_ANALYTICS_PH,SAP_FIN_BC_AP_ANALYTICS_GB,SAP_FIN_BC_AP_ANALYTICS_US,SAP_FIN_BC_AP_ANALYTICS_FR","SAP_FIN_BCG_AP_ANALYTICS_AU,SAP_FIN_BCG_AP_ANALYTICS_PH,SAP_FIN_BCG_AP_ANALYTICS_US,SAP_FIN_BCG_AP_ANALYTICS_FR,SAP_FIN_BCG_AP_ANALYTICS_GB,SAP_FIN_BCG_AP_ANALYTICS_JP,SAP_FIN_BCG_AP_ANALYTICS_BE","Analytics Australia,Analytics Philippines,Analytics USA,Analytics France,Analytics United Kingdom,Analytics Japan,Analytics Belgium","SAP_BR_AP_MANAGER_AU, SAP_BR_AP_MANAGER_BE, SAP_BR_AP_MANAGER_GB, SAP_BR_AP_MANAGER_US, SAP_BR_AP_MANAGER_FR, SAP_BR_AP_MANAGER_PH, SAP_BR_AP_MANAGER_JP","Accounts Payable Manager for Australia, Accounts Payable Manager for Belgium, Accounts Payable Manager for United Kingdom, Accounts Payable Manager for USA, Accounts Payable Manager for France, Accounts Payable Manager for Philippines, Accounts Payable Manager for Japan",
+Print Official Receipts - After Payment - Philippines,GUI,SAP_FIN_BC_AR_OPER_PROC_PH,SAP_FIN_BCG_AR_OPER_PROC_PH,Operational Processing Philippines,SAP_BR_AR_ACCOUNTANT_PH,Accounts Receivable Accountant for Philippines,
+Print Official Receipts - Before Payment - Philippines,GUI,SAP_FIN_BC_AR_OPER_PROC_PH,SAP_FIN_BCG_AR_OPER_PROC_PH,Operational Processing Philippines,SAP_BR_AR_ACCOUNTANT_PH,Accounts Receivable Accountant for Philippines,
+"EC Sales List in DME Format, EC Sales List - United Kingdom",GUI,"SAP_SFIN_BC_GL_REP_DE,SAP_FIN_BC_GL_REPORTING_GB","SAP_FIN_BCG_GL_REPORTING_GB,SAP_SFIN_BCG_GL_REP_DE","Reporting United Kingdom,Reporting Germany","SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_GB","General Ledger Accountant, General Ledger Accountant for United Kingdom",
+Create EC Sales List in DME Format - France,GUI,SAP_FIN_BC_GL_REPORTING_FR,SAP_FIN_BCG_GL_REPORTING_FR,Reporting France,SAP_BR_GL_ACCOUNTANT_FR,General Ledger Accountant for France,
+"Create EC Sales List in DME Format - Netherlands, Create EC Sales List - Netherlands",GUI,SAP_FIN_BC_GL_REPORTING_NL,SAP_FIN_BCG_GL_REP_NL,Reporting Netherlands,"SAP_BR_GL_ACCOUNTANT, SAP_BR_GL_ACCOUNTANT_NL","General Ledger Accountant, General Ledger Accountant for Belgium",
+Import Market Data from File,GUI,SAP_SFIN_BC_GL_CURR_SET,SAP_SFIN_BCG_GL_CURR_SET,General Ledger - Current Settings,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Write-Off Dispute Cases,GUI,SAP_SFIN_BC_AR_DISPUTE_WOF,SAP_SFIN_BCG_AR_DISPUTES,Disputes,SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant,
+Display Credit Master Data,GUI,SAP_SFIN_BC_CR_DISP_DATA,SAP_SFIN_BCG_CR_MASTER_DATA,Master Data,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Manage Credit Cases,GUI,SAP_SFIN_BC_CR_CASES,SAP_SFIN_BCG_CR_DAILY,Daily Business,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Display Credit Exposure,GUI,SAP_SFIN_BC_CR_DISP_DATA,SAP_SFIN_BCG_CR_REPORTING,Reporting,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Navigate to specific DCD,GUI,"SAP_SFIN_BC_CR_CASES,SAP_SD_BC_SO_PROC_OP",,,"SAP_BR_INTERNAL_SALES_REP, SAP_BR_CREDIT_CONTROLLER","Internal Sales Representative, Credit Controller",
+Display Credit Limit Utilization,GUI,SAP_SFIN_BC_CR_DISP_DATA,"SAP_SFIN_BCG_CR_DAILY,SAP_SFIN_B","Daily Business,Reporting",SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Display Credit Data - Credit Profile,GUI,SAP_SFIN_BC_CR_DISP_DATA,SAP_SFIN_BCG_CR_REPORTING,Reporting,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Display Credit Data - Segment,GUI,SAP_SFIN_BC_CR_DISP_DATA,SAP_SFIN_BCG_CR_REPORTING,Reporting,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Reconcile Credit Exposure,GUI,SAP_SFIN_BC_CR_CREDIT_ACC,SAP_SFIN_BCG_CR_MASTER_DATA,Master Data,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Manage Credit Rules,GUI,SAP_SFIN_BC_CR_CREDIT_ACC,SAP_SFIN_BCG_CR_MASTER_DATA,Master Data,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Manage Documented Credit Decisions,GUI,SAP_SFIN_BC_CR_CASES,SAP_SFIN_BCG_CR_DAILY,Daily Business,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Display Payment Behavior,GUI,SAP_SFIN_BC_CR_DISP_DATA,SAP_SFIN_BCG_CR_REPORTING,Reporting,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Settle Sales Order to Profitability Analysis - Service Provider,GUI,SAP_SFIN_BC_CO_PE_INV_PA,SAP_SFIN_BCG_CO_PER_END,Controlling - Period End Processing,SAP_BR_CONTROLLER,Controller,
+Manage Credit Decisions - Blocked SD Documents,GUI,SAP_SFIN_BC_CR_CASES,SAP_SFIN_BCG_CR_DAILY,Daily Business,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Manage Credit Decisions - SD Documents,GUI,SAP_SFIN_BC_CR_CASES,,,SAP_BR_CREDIT_CONTROLLER,Credit Controller,
+Trial Balance Comparison,FPM/WebDynpro,SAP_SFIN_BC_GL_GEN_REP,SAP_SFIN_BCG_GL_GEN_REP,General Reporting,SAP_BR_GL_ACCOUNTANT,General Ledger Accountant,
+Manage Bank Accounts - Overview and Maintenance,FPM/WebDynpro,"SAP_SFIN_BC_BAM,SAP_SFIN_BC_CM_BAM",SAP_SFIN_BCG_CM_BAM,Bank Account Management,"SAP_BR_AP_ACCOUNTANT, SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Accounts Payable Accountant, Cash Management Specialist, Cash Manager",
+Liquidity Forecast Details - Details,FPM/WebDynpro,SAP_SFIN_BC_CM_LM,SAP_SFIN_BCG_CM_LM,Liquidity Management,"SAP_BR_CASH_SPECIALIST, SAP_BR_CASH_MANAGER","Cash Management Specialist, Cash Manager",
+Manage Profit Center Groups,FPM/WebDynpro,"SAP_SFIN_BC_GL_MASTER_DATA,SAP_SFIN_BC_CO_MD_PCA","SAP_SFIN_BCG_CO_MD,SAP_SFIN_BCG_GL_MASTDATA","Controlling - Master Data,Master Data","SAP_BR_CONTROLLER, SAP_BR_GL_ACCOUNTANT","Controller, General Ledger Accountant",
