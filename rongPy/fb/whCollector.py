@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import util.alignLists
+from util.alignLists import alignLst
 
 class WhCollector():
     
@@ -53,22 +54,33 @@ class WhCollector():
         title = market.find('span', {'class' : 'coupon-title single'}).text
         odds = Odds(title.replace('\n', ''))
         
+        print(odds.title)
+        
         raw_lst = []
         header_row_lst = []
         table = market.find('tr', {'class' : 'header'})
         headers = table.findAll('td')
         for header in headers:
-            header_row_lst.append(header.text)
+            if (header.text):
+                header_row_lst.append(header.text)
+        header_row_lst.append('所有盘口')
         
         raw_lst.append(header_row_lst)
         
         for tr in market.findAll('tr', {'class' : 'body', 'data-market-cash-out-elegible' : 'true'}):
-            print(tr)
             odds_row_lst = []
-            data = tr.find('td', {'class' : 'date'})
-            odds_row_lst.append(data.get('data-sort'))
+            odds_row_lst.append(tr.find('td', {'class' : 'date'}).get('data-sort'))
+            odds_row_lst.append(tr.find('td', {'class' : 'event_description'}).get('data-secondary-sort'))
+            for td in tr.findAll('td', {'class' : 'outcome_ou'}):
+                odds_row_lst.append(td.find('span', {'class' : 'player'}).text)
+                odds_row_lst.append(td.get('data-sort'))
+            odds_row_lst.append(tr.find('a', {'class' : 'sports-coupon__more-bets'}).text)
+            raw_lst.append(odds_row_lst)
         
-        print(odds_row_lst)
+        odds.lst = alignLst(raw_lst)
+            
+        for line in odds.lst:
+            print(line)
  
         return odds
     
