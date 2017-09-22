@@ -19,7 +19,7 @@ class WhCollector():
     
     def getMatchLinks(self):
         source = requests.get(self.baseUrl + "/zh-cn/sport/football")
-        soup = BeautifulSoup(source.text, 'html.parser')
+        soup = BeautifulSoup(source.text.encode('utf_8'), 'html.parser')
         
         matchUrls = []
         
@@ -54,7 +54,8 @@ class WhCollector():
         title = market.find('span', {'class' : 'coupon-title single'}).text
         odds = Odds(title.replace('\n', ''))
         
-        print(odds.title)
+        #print(market)
+        #print(odds.title)
         
         raw_lst = []
         header_row_lst = []
@@ -70,7 +71,7 @@ class WhCollector():
         for tr in market.findAll('tr', {'class' : 'body', 'data-market-cash-out-elegible' : 'true'}):
             odds_row_lst = []
             odds_row_lst.append(tr.find('td', {'class' : 'date'}).get('data-sort'))
-            odds_row_lst.append(tr.find('td', {'class' : 'event_description'}).get('data-secondary-sort'))
+            odds_row_lst.append(tr.find('a', {'class' : 'title-wrapper'}).text)
             for td in tr.findAll('td', {'class' : 'outcome_ou'}):
                 odds_row_lst.append(td.find('span', {'class' : 'player'}).text)
                 odds_row_lst.append(td.get('data-sort'))
@@ -78,13 +79,9 @@ class WhCollector():
             raw_lst.append(odds_row_lst)
         
         odds.lst = alignLst(raw_lst)
-            
-        for line in odds.lst:
-            print(line)
  
         return odds
     
-        
 
 class Odds():
     

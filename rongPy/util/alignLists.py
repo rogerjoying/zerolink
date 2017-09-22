@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*- 
+#字体选择幼圆
 
 def alignLst(lists):
     r_lists = []    
@@ -14,8 +15,8 @@ def alignLst(lists):
             str_temp = str_temp + '|' + '{0:{width}}'.format(x, width = y - num)
         r_lists.append(str_temp)
         
-    for line in r_lists:
-        print(line)
+    #for line in r_lists:
+    #    print(line)
        
     return r_lists
 
@@ -30,7 +31,7 @@ def lenWithCH(str_temp):
     i = len(str_temp) + numOfCH(str_temp)
     return i
 
-'''     
+'''   
 l1 = ["中文","level","value"]
 l2 = ["Some long name", "这是一串很长的中文", "a value"]
 l3 = ["An even longer name", "another level", "another value"]
@@ -44,5 +45,6 @@ lsts.append(l3)
 print(numOfCH("中文"))
 print(lenWithCH("test中文"))
 
-alignLst(lsts)
+for line in alignLst(lsts):
+    print(line)
 '''
