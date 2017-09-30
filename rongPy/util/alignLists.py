@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*- 
 #字体选择幼圆
 
+punc = "！？｡＂＃＄％＆＇（）＊＋，－／：；＜＝＞＠［＼］＾＿｀｛｜｝～｟｠｢｣､、〃》「」『』【】〔〕〖〗〘〙〚〛〜〝〞〟〰〾〿–—‘’‛“”„‟…‧﹏."
+
 def alignLst(lists):
     r_lists = []    
     max_lens = [lenWithCH(str(max(c, key = lambda x : lenWithCH(str(x))))) for c in zip(*lists)]
@@ -23,7 +25,7 @@ def alignLst(lists):
 def numOfCH(str_temp):
     i = 0
     for ch in str_temp:
-        if u'\u4e00' <= ch <= u'\u9fff':
+        if u'\u4e00' <= ch <= u'\u9fff' or ch in punc:
             i += 1
     return i
 

@@ -1,5 +1,6 @@
 from realE.ljSession import LjSession
 from bs4 import BeautifulSoup
+from util.alignLists import alignLst
 import re
 import json
 
@@ -32,6 +33,8 @@ class ReCollector(LjSession):
             soup = BeautifulSoup(source_code, "html.parser")
             
             for data in soup.find('ul', {"class" : "js_fang_list"}).findAll('li'):
+                templist = []
+                
                 infoData = data.find('div', {"class" : "info"})
                 
                 titleData = infoData.find('a', {"gahref" : re.compile("^results_click_order_*")})
@@ -42,6 +45,7 @@ class ReCollector(LjSession):
                 desData = reData.find('span', {"class" : "info-col row1-text"})
                 des = re.sub("\n", "", desData.text)
                 des = re.sub("\t", "", des)
+                des = re.sub("\|", ";", des)
                 
                 priceData = reData.find('span', {"class" : "total-price strong-num"})
                 price = priceData.text + '万'
@@ -49,7 +53,13 @@ class ReCollector(LjSession):
                 propData = reData.find('a', {"class" : "laisuzhou"})
                 propName = propData.text
                 
-                re_msg_list.append(propName + "\t" + des + "\t" + price + "\t" + title + "\t" + href)    
+                templist.append(propName)
+                templist.append(des)
+                templist.append(price)
+                templist.append(title)
+                templist.append(href)
+                
+                re_msg_list.append(templist)    
         
-        return re_msg_list
+        return alignLst(re_msg_list)
         
