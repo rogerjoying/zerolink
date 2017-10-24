@@ -10,6 +10,10 @@ rc = ReCollector(input('lj account'), input('lj pw'))
 xiaoqu_links = rc.get_re_list()
 re_list = rc.get_re_msg(xiaoqu_links)
 
+for line in re_list:
+    print(line)
+
+'''
 sender = input('163 account')
 passwd = input('163 pw')
 smtpServer = "smtp.163.com"
@@ -25,3 +29,4 @@ for msg in re_list:
 message = mailer.setMsg(receiver, subject, message)
 
 mailer.send(message)
+'''
